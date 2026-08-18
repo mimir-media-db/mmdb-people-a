@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ann_savoy",
+  "name": "Ann Savoy",
+  "external_ids": {
+    "wikidata": "Q2850420",
+    "imdb": "nm0767919"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}

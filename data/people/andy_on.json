@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_andy_on",
+  "name": "Andy On",
+  "external_ids": {
+    "wikidata": "Q711527",
+    "imdb": "nm0648499"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1976
+}

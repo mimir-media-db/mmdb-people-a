@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_agnes",
+  "name": "Agnès",
+  "external_ids": {
+    "wikidata": "Q135658655",
+    "imdb": "nm1262731"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

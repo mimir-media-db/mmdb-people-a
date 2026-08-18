@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_anne_bargain",
+  "name": "Anne Bargain",
+  "external_ids": {
+    "wikidata": "Q2850973",
+    "imdb": "nm1313641"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1982
+}

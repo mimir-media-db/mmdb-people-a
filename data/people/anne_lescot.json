@@ -1,9 +1,10 @@
 {
   "schema_version": 1,
-  "id": "p_andres_santana",
-  "name": "Andrés Santana",
+  "id": "p_anne_lescot",
+  "name": "Anne Lescot",
   "external_ids": {
-    "wikidata": "Q962279"
+    "wikidata": "Q12887409",
+    "imdb": "nm1519312"
   },
   "last_updated": "2026-08-18",
   "birth_year": 1968

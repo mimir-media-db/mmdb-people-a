@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_andrus_vaarik",
+  "name": "Andrus Vaarik",
+  "external_ids": {
+    "wikidata": "Q4759565",
+    "imdb": "nm0882802"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}

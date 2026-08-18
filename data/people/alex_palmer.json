@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alex_palmer",
+  "name": "Alex Palmer",
+  "external_ids": {
+    "wikidata": "Q1712817",
+    "imdb": "nm0658099"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1999
+}
