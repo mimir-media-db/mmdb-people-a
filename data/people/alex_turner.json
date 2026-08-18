@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alex_turner",
+  "name": "Alex Turner",
+  "external_ids": {
+    "wikidata": "Q4717916",
+    "imdb": "nm0877366"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_annie_potts",
+  "name": "Annie Potts",
+  "external_ids": {
+    "wikidata": "Q253536",
+    "imdb": "nm0001633"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}
