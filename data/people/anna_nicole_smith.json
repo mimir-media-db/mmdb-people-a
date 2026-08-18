@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_anna_nicole_smith",
+  "name": "Anna Nicole Smith",
+  "external_ids": {
+    "wikidata": "Q180710",
+    "imdb": "nm0000645"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967,
+  "death_year": 2007
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alberto_radius",
+  "name": "Alberto Radius",
+  "external_ids": {
+    "wikidata": "Q3608534",
+    "imdb": "nm1574973"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1942,
+  "death_year": 2023
+}
