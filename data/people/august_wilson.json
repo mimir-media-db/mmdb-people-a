@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_august_wilson",
+  "name": "August Wilson",
+  "external_ids": {
+    "wikidata": "Q764812",
+    "imdb": "nm0933025"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1945,
+  "death_year": 2005
+}

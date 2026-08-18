@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_akira",
+  "name": "Akira",
+  "external_ids": {
+    "wikidata": "Q851515",
+    "imdb": "nm1184283"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1981
+}

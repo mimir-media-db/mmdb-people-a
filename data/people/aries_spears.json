@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_aries_spears",
+  "name": "Aries Spears",
+  "external_ids": {
+    "wikidata": "Q660241",
+    "imdb": "nm0817341"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1975
+}
