@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_anita_blond",
+  "name": "Anita Blond",
+  "external_ids": {
+    "wikidata": "Q270615",
+    "imdb": "nm0089008"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1976
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_anders_post",
+  "name": "Anders Post",
+  "external_ids": {
+    "wikidata": "Q115660970",
+    "imdb": "nm1192014"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1945
+}

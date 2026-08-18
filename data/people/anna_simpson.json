@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_anna_simpson",
+  "name": "Anna Simpson",
+  "external_ids": {
+    "wikidata": "Q19663549",
+    "imdb": "nm0800899"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1983
+}

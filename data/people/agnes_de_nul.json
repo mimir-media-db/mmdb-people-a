@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_agnes_de_nul",
+  "name": "Agnes De Nul",
+  "external_ids": {
+    "wikidata": "Q5201916",
+    "imdb": "nm0210615"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955
+}

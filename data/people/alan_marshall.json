@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alan_marshall",
+  "name": "Alan Marshall",
+  "external_ids": {
+    "wikidata": "Q938050",
+    "imdb": "nm0550728"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1938
+}

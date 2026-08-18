@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_adolf_hitler",
+  "name": "Adolf Hitler",
+  "external_ids": {
+    "wikidata": "Q352",
+    "imdb": "nm0386944"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1889,
+  "death_year": 1945
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_anh_duong",
+  "name": "Anh Duong",
+  "external_ids": {
+    "wikidata": "Q2849884",
+    "imdb": "nm0243117"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}
