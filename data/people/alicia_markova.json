@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alicia_markova",
+  "name": "Alicia Markova",
+  "external_ids": {
+    "wikidata": "Q179196",
+    "imdb": "nm0548627"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1910,
+  "death_year": 2004
+}

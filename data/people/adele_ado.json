@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_adele_ado",
+  "name": "Adèle Ado",
+  "external_ids": {
+    "wikidata": "Q15973159",
+    "imdb": "nm1992411"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}
