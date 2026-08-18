@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_avril_lavigne",
+  "name": "Avril Lavigne",
+  "external_ids": {
+    "wikidata": "Q30449",
+    "imdb": "nm1245099"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1984
+}
