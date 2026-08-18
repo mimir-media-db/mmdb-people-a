@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_al_franken",
+  "name": "Al Franken",
+  "external_ids": {
+    "wikidata": "Q319084",
+    "imdb": "nm0291253"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951
+}

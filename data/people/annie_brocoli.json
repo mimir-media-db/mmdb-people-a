@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_annie_brocoli",
+  "name": "Annie Brocoli",
+  "external_ids": {
+    "wikidata": "Q2851637",
+    "imdb": "nm1495600"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}

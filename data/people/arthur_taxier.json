@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_arthur_taxier",
+  "name": "Arthur Taxier",
+  "external_ids": {
+    "wikidata": "Q3624322",
+    "imdb": "nm0851833"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951
+}

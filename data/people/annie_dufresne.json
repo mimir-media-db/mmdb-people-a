@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_annie_dufresne",
+  "name": "Annie Dufresne",
+  "external_ids": {
+    "wikidata": "Q2851647",
+    "imdb": "nm0240737"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1973
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_connor",
+  "name": "Alice Connor",
+  "external_ids": {
+    "wikidata": "Q447583",
+    "imdb": "nm0971402"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1990
+}

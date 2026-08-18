@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_arlo_guthrie",
+  "name": "Arlo Guthrie",
+  "external_ids": {
+    "wikidata": "Q552925",
+    "imdb": "nm0349241"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1947
+}

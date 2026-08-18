@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_anita_paris",
+  "name": "Anita Paris",
+  "external_ids": {
+    "wikidata": "Q43380764",
+    "imdb": "nm1031868"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1980
+}

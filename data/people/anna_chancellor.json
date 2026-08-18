@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_anna_chancellor",
+  "name": "Anna Chancellor",
+  "external_ids": {
+    "wikidata": "Q433089",
+    "imdb": "nm0151250"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}
