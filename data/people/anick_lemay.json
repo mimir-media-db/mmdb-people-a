@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_anick_lemay",
+  "name": "Anick Lemay",
+  "external_ids": {
+    "wikidata": "Q2849918",
+    "imdb": "nm0501137"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1971,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_anemone",
+  "name": "Anémone",
+  "external_ids": {
+    "wikidata": "Q449240",
+    "imdb": "nm0031785"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1950,
+  "death_year": 2019
+}

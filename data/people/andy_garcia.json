@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_andy_garcia",
+  "name": "Andy Garcia",
+  "external_ids": {
+    "wikidata": "Q189415",
+    "imdb": "nm0000412"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1956,
+  "death_year": null
+}

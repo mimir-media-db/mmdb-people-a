@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_andy_wilson",
+  "name": "Andy Wilson",
+  "external_ids": {
+    "wikidata": "Q4761501",
+    "imdb": "nm0933002"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1958,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ann_hui",
+  "name": "Ann Hui",
+  "external_ids": {
+    "wikidata": "Q256958",
+    "imdb": "nm0401176"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1947,
+  "death_year": null
+}

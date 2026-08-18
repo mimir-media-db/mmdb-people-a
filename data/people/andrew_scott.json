@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_andrew_scott",
+  "name": "Andrew Scott",
+  "external_ids": {
+    "wikidata": "Q507322",
+    "imdb": "nm0778831"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1976,
+  "death_year": null
+}

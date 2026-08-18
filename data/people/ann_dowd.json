@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ann_dowd",
+  "name": "Ann Dowd",
+  "external_ids": {
+    "wikidata": "Q2558129",
+    "imdb": "nm0235652"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1956,
+  "death_year": null
+}
