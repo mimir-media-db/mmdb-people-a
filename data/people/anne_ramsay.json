@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_anne_ramsay",
+  "name": "Anne Ramsay",
+  "external_ids": {
+    "wikidata": "Q462192",
+    "imdb": "nm0708867"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1960
+}
