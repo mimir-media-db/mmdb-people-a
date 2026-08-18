@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_amelia_vega",
+  "name": "Amelia Vega",
+  "external_ids": {
+    "wikidata": "Q1758790",
+    "imdb": "nm1392123"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1984
+}
