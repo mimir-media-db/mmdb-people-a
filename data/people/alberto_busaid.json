@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alberto_busaid",
+  "name": "Alberto Busaid",
+  "external_ids": {
+    "wikidata": "Q16527966",
+    "imdb": "nm0123875"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1937,
+  "death_year": 2002
+}

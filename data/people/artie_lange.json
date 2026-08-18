@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_artie_lange",
+  "name": "Artie Lange",
+  "external_ids": {
+    "wikidata": "Q712452",
+    "imdb": "nm0005119"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

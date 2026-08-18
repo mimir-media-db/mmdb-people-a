@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alain_poire",
+  "name": "Alain Poiré",
+  "external_ids": {
+    "wikidata": "Q981229",
+    "imdb": "nm0688583"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1917,
+  "death_year": 2000
+}

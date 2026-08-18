@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alicia_witt",
+  "name": "Alicia Witt",
+  "external_ids": {
+    "wikidata": "Q236247",
+    "imdb": "nm0001860"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1975
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_andrew_dice_clay",
+  "name": "Andrew Dice Clay",
+  "external_ids": {
+    "wikidata": "Q504455",
+    "imdb": "nm0001048"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957
+}

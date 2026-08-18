@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_annette_bening",
+  "name": "Annette Bening",
+  "external_ids": {
+    "wikidata": "Q190602",
+    "imdb": "nm0000906"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}

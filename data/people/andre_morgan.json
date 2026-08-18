@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_andre_morgan",
+  "name": "Andre Morgan",
+  "external_ids": {
+    "wikidata": "Q25713865",
+    "imdb": "nm0003132"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1999
+}

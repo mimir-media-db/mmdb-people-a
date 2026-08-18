@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_amy_austria",
+  "name": "Amy Austria",
+  "external_ids": {
+    "wikidata": "Q4749086",
+    "imdb": "nm0042564"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}

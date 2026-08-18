@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ari_gold",
+  "name": "Ari Gold",
+  "external_ids": {
+    "wikidata": "Q4790099",
+    "imdb": "nm0324923"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

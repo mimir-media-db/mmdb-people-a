@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alan_ford",
+  "name": "Alan Ford",
+  "external_ids": {
+    "wikidata": "Q2830505",
+    "imdb": "nm0285495"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1938
+}

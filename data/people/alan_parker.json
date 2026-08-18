@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alan_parker",
+  "name": "Alan Parker",
+  "external_ids": {
+    "wikidata": "Q271284",
+    "imdb": "nm0000570"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1944,
+  "death_year": 2020
+}

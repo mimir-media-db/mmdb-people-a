@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_avery_brooks",
+  "name": "Avery Brooks",
+  "external_ids": {
+    "wikidata": "Q366012",
+    "imdb": "nm0000984"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1948
+}

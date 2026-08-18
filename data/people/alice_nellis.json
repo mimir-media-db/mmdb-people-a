@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_nellis",
+  "name": "Alice Nellis",
+  "external_ids": {
+    "wikidata": "Q3489129",
+    "imdb": "nm0625080"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}

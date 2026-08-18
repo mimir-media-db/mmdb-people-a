@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_antal_cserna",
+  "name": "Antal Cserna",
+  "external_ids": {
+    "wikidata": "Q872225",
+    "imdb": "nm0190698"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}

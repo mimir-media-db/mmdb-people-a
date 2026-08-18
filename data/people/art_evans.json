@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_art_evans",
+  "name": "Art Evans",
+  "external_ids": {
+    "wikidata": "Q705523",
+    "imdb": "nm0262543"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1942,
+  "death_year": 2024
+}
