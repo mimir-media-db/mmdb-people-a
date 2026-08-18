@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alan_cumming",
+  "name": "Alan Cumming",
+  "external_ids": {
+    "wikidata": "Q316629",
+    "imdb": "nm0001086"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1965,
+  "death_year": null
+}

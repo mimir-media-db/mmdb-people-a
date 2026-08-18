@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alex_reid",
+  "name": "Alex Reid",
+  "external_ids": {
+    "wikidata": "Q437038",
+    "imdb": "nm0717157"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1980,
+  "death_year": null
+}

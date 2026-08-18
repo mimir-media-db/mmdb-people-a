@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alex_harker",
+  "name": "Alex Harker",
+  "external_ids": {
+    "wikidata": "Q111609141",
+    "imdb": "nm2047454"
+  },
+  "last_updated": "2026-08-14",
+  "death_year": null
+}

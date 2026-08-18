@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alexander_ovechkin",
+  "name": "Alexander Ovechkin",
+  "external_ids": {
+    "wikidata": "Q311374",
+    "imdb": "nm2307140"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1985,
+  "death_year": null
+}

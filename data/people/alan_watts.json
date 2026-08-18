@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alan_watts",
+  "name": "Alan Watts",
+  "external_ids": {
+    "wikidata": "Q354867",
+    "imdb": "nm3687362"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1915,
+  "death_year": 1973
+}

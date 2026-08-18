@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alex_cord",
+  "name": "Alex Cord",
+  "external_ids": {
+    "wikidata": "Q949100",
+    "imdb": "nm0179376"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1933,
+  "death_year": 2021
+}
