@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_andy_fickman",
+  "name": "Andy Fickman",
+  "external_ids": {
+    "wikidata": "Q525725",
+    "imdb": "nm0275698"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}
