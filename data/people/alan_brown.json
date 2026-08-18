@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alan_brown",
+  "name": "Alan Brown",
+  "external_ids": {
+    "wikidata": "Q4706259",
+    "imdb": "nm1135014"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1949
+}

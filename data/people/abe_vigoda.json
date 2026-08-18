@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_abe_vigoda",
+  "name": "Abe Vigoda",
+  "external_ids": {
+    "wikidata": "Q318220",
+    "imdb": "nm0001820"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1921,
+  "death_year": 2016
+}

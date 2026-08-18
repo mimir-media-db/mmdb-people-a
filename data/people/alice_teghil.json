@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_teghil",
+  "name": "Alice Teghil",
+  "external_ids": {
+    "wikidata": "Q3611714",
+    "imdb": "nm1475602"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1989
+}

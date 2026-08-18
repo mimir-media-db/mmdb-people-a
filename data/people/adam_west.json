@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_adam_west",
+  "name": "Adam West",
+  "external_ids": {
+    "wikidata": "Q351156",
+    "imdb": "nm0001842"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1928,
+  "death_year": 2017
+}
