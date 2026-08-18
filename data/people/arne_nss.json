@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_arne_nss",
+  "name": "Arne Næss",
+  "external_ids": {
+    "wikidata": "Q335152",
+    "imdb": "nm0639019"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1912,
+  "death_year": 2009
+}

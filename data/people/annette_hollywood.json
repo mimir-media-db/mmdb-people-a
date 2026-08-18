@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_annette_hollywood",
+  "name": "Annette Hollywood",
+  "external_ids": {
+    "wikidata": "Q25711479",
+    "imdb": "nm1760780"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alex_wolff",
+  "name": "Alex Wolff",
+  "external_ids": {
+    "wikidata": "Q940891",
+    "imdb": "nm1842974"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1997
+}

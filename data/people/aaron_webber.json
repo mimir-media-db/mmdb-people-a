@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_aaron_webber",
+  "name": "Aaron Webber",
+  "external_ids": {
+    "wikidata": "Q4662517",
+    "imdb": "nm1929212"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1989
+}

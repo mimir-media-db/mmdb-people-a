@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_art_binkowski",
+  "name": "Art Binkowski",
+  "external_ids": {
+    "wikidata": "Q4796703",
+    "imdb": "nm1736874"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1975
+}
