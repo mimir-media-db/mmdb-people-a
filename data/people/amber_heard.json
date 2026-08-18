@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_amber_heard",
+  "name": "Amber Heard",
+  "external_ids": {
+    "wikidata": "Q229166",
+    "imdb": "nm1720028"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1986,
+  "death_year": null
+}

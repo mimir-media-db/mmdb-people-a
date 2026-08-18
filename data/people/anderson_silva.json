@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_anderson_silva",
+  "name": "Anderson Silva",
+  "external_ids": {
+    "wikidata": "Q356871",
+    "imdb": "nm2303111"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1975,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_amy_jackson",
+  "name": "Amy Jackson",
+  "external_ids": {
+    "wikidata": "Q2121695",
+    "imdb": "nm3367112"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1992,
+  "death_year": null
+}

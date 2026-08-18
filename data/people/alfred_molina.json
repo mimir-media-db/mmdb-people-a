@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alfred_molina",
+  "name": "Alfred Molina",
+  "external_ids": {
+    "wikidata": "Q296028",
+    "imdb": "nm0000547"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1953,
+  "death_year": null
+}

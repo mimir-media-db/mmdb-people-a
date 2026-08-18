@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_dwyer",
+  "name": "Alice Dwyer",
+  "external_ids": {
+    "wikidata": "Q2646866",
+    "imdb": "nm0214280"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1988,
+  "death_year": null
+}

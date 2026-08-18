@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_pol",
+  "name": "Alice Pol",
+  "external_ids": {
+    "wikidata": "Q6531360",
+    "imdb": "nm1745743"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1982,
+  "death_year": null
+}

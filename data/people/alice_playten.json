@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_playten",
+  "name": "Alice Playten",
+  "external_ids": {
+    "wikidata": "Q454647",
+    "imdb": "nm0687029"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1947,
+  "death_year": 2011
+}

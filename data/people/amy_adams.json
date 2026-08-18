@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_amy_adams",
+  "name": "Amy Adams",
+  "external_ids": {
+    "wikidata": "Q481832",
+    "imdb": "nm0010736"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1974,
+  "death_year": null
+}

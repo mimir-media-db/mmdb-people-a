@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_morelmichaud",
+  "name": "Alice Morel-Michaud",
+  "external_ids": {
+    "wikidata": "Q2836619",
+    "imdb": "nm1767952"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1998,
+  "death_year": null
+}

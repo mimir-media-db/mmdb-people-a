@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_amy_hill",
+  "name": "Amy Hill",
+  "external_ids": {
+    "wikidata": "Q2469967",
+    "imdb": "nm0384032"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1953,
+  "death_year": null
+}
