@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_audrey_lamy",
+  "name": "Audrey Lamy",
+  "external_ids": {
+    "wikidata": "Q759001",
+    "imdb": "nm2188804"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1981,
+  "death_year": null
+}

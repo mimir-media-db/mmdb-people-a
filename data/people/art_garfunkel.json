@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_art_garfunkel",
+  "name": "Art Garfunkel",
+  "external_ids": {
+    "wikidata": "Q4039",
+    "imdb": "nm0307316"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1941,
+  "death_year": null
+}

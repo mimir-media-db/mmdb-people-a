@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_art_malik",
+  "name": "Art Malik",
+  "external_ids": {
+    "wikidata": "Q705644",
+    "imdb": "nm0539562"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1952,
+  "death_year": null
+}

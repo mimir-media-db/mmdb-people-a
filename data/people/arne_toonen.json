@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_arne_toonen",
+  "name": "Arne Toonen",
+  "external_ids": {
+    "wikidata": "Q2066995",
+    "imdb": "nm1234631"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1975,
+  "death_year": null
+}

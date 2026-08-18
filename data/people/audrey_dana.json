@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_audrey_dana",
+  "name": "Audrey Dana",
+  "external_ids": {
+    "wikidata": "Q177840",
+    "imdb": "nm0199047"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1977,
+  "death_year": null
+}
