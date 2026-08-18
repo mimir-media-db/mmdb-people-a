@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alan_bennett",
+  "name": "Alan Bennett",
+  "external_ids": {
+    "wikidata": "Q654730",
+    "imdb": "nm0003141"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1934
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alo_korve",
+  "name": "Alo Kõrve",
+  "external_ids": {
+    "wikidata": "Q12358955",
+    "imdb": "nm1272271"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}

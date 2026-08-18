@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_arno",
+  "name": "Alice Arno",
+  "external_ids": {
+    "wikidata": "Q434299",
+    "imdb": "nm0036309"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946
+}

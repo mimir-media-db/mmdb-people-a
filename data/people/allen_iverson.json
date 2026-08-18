@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_allen_iverson",
+  "name": "Allen Iverson",
+  "external_ids": {
+    "wikidata": "Q190094",
+    "imdb": "nm1132515"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1975
+}

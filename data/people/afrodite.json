@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_afrodite",
+  "name": "Afrodite",
+  "external_ids": {
+    "wikidata": "Q113569963",
+    "imdb": "nm1588896"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}
