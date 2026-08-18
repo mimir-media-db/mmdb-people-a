@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_krige",
+  "name": "Alice Krige",
+  "external_ids": {
+    "wikidata": "Q236479",
+    "imdb": "nm0000481"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1954,
+  "death_year": null
+}

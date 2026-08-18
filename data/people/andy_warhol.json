@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_andy_warhol",
+  "name": "Andy Warhol",
+  "external_ids": {
+    "wikidata": "Q5603",
+    "imdb": "nm0912238"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1928,
+  "death_year": 1987
+}

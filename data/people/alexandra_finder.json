@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alexandra_finder",
+  "name": "Alexandra Finder",
+  "external_ids": {
+    "wikidata": "Q1661225",
+    "imdb": "nm0277509"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1977,
+  "death_year": null
+}

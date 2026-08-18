@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_allen_leech",
+  "name": "Allen Leech",
+  "external_ids": {
+    "wikidata": "Q2152459",
+    "imdb": "nm1395602"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1981,
+  "death_year": null
+}

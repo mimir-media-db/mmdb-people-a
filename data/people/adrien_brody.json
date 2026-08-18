@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_adrien_brody",
+  "name": "Adrien Brody",
+  "external_ids": {
+    "wikidata": "Q104514",
+    "imdb": "nm0004778"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1973,
+  "death_year": null
+}

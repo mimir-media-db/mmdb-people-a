@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ann_cusack",
+  "name": "Ann Cusack",
+  "external_ids": {
+    "wikidata": "Q432686",
+    "imdb": "nm0193639"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1961,
+  "death_year": null
+}

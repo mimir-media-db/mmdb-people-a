@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_abhishek_bachchan",
+  "name": "Abhishek Bachchan",
+  "external_ids": {
+    "wikidata": "Q187058",
+    "imdb": "nm0045393"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1976,
+  "death_year": null
+}

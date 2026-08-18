@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alysson_paradis",
+  "name": "Alysson Paradis",
+  "external_ids": {
+    "wikidata": "Q2604338",
+    "imdb": "nm1574565"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1983,
+  "death_year": null
+}

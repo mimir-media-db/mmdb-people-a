@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ashley_greene",
+  "name": "Ashley Greene",
+  "external_ids": {
+    "wikidata": "Q189992",
+    "imdb": "nm2230865"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1987,
+  "death_year": null
+}

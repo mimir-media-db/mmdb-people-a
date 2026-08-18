@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_arthur_igual",
+  "name": "Arthur Igual",
+  "external_ids": {
+    "wikidata": "Q24008552",
+    "imdb": "nm2070899"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1950,
+  "death_year": null
+}

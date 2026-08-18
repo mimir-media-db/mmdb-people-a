@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_andy_pessoa",
+  "name": "Andy Pessoa",
+  "external_ids": {
+    "wikidata": "Q1057851",
+    "imdb": "nm2185248"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1995,
+  "death_year": null
+}

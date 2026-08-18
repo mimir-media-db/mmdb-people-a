@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_abel_ferry",
+  "name": "Abel Ferry",
+  "external_ids": {
+    "wikidata": "Q2821505",
+    "imdb": "nm1125872"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1973,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_andy_samberg",
+  "name": "Andy Samberg",
+  "external_ids": {
+    "wikidata": "Q314640",
+    "imdb": "nm1676221"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1978,
+  "death_year": null
+}

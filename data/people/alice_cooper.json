@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_cooper",
+  "name": "Alice Cooper",
+  "external_ids": {
+    "wikidata": "Q332032",
+    "imdb": "nm0004840"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1948,
+  "death_year": null
+}

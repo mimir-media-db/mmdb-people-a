@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ales_bilik",
+  "name": "Aleš Bílík",
+  "external_ids": {
+    "wikidata": "Q26885498",
+    "imdb": "nm5347188"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1989,
+  "death_year": null
+}

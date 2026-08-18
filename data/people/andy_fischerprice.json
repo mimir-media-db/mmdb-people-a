@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_andy_fischerprice",
+  "name": "Andy Fischer-Price",
+  "external_ids": {
+    "wikidata": "Q3616537",
+    "imdb": "nm2260156"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1987,
+  "death_year": null
+}

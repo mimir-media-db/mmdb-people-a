@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_al_gore",
+  "name": "Al Gore",
+  "external_ids": {
+    "wikidata": "Q19673",
+    "imdb": "nm0330722"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1948,
+  "death_year": null
+}

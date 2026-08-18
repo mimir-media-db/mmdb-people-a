@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ann_augustine",
+  "name": "Ann Augustine",
+  "external_ids": {
+    "wikidata": "Q4766243",
+    "imdb": "nm4038059"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1988,
+  "death_year": null
+}

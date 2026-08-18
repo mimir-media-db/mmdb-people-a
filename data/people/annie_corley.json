@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_annie_corley",
+  "name": "Annie Corley",
+  "external_ids": {
+    "wikidata": "Q566923",
+    "imdb": "nm0179960"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1952,
+  "death_year": null
+}

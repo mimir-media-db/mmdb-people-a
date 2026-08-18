@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_amy_sedaris",
+  "name": "Amy Sedaris",
+  "external_ids": {
+    "wikidata": "Q262170",
+    "imdb": "nm0781238"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1961,
+  "death_year": null
+}

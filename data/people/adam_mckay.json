@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_adam_mckay",
+  "name": "Adam McKay",
+  "external_ids": {
+    "wikidata": "Q350405",
+    "imdb": "nm0570912"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1968,
+  "death_year": null
+}

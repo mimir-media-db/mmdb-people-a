@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_butaud",
+  "name": "Alice Butaud",
+  "external_ids": {
+    "wikidata": "Q2836541",
+    "imdb": "nm2372335"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1983,
+  "death_year": null
+}

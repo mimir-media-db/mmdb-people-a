@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alfred_lot",
+  "name": "Alfred Lot",
+  "external_ids": {
+    "wikidata": "Q2835280",
+    "imdb": "nm0521411"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1964,
+  "death_year": null
+}

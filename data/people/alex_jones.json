@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alex_jones",
+  "name": "Alex Jones",
+  "external_ids": {
+    "wikidata": "Q319121",
+    "imdb": "nm1093953"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1974,
+  "death_year": null
+}

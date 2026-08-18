@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alain_dion",
+  "name": "Alain Dion",
+  "external_ids": {
+    "wikidata": "Q2829745",
+    "imdb": "nm1517502"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1957,
+  "death_year": null
+}

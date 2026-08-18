@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_annabel_park",
+  "name": "Annabel Park",
+  "external_ids": {
+    "wikidata": "Q4767687",
+    "imdb": "nm3488623"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1968,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_amy_smart",
+  "name": "Amy Smart",
+  "external_ids": {
+    "wikidata": "Q235272",
+    "imdb": "nm0005442"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1976,
+  "death_year": null
+}

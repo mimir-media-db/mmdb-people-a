@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_anne_archer",
+  "name": "Anne Archer",
+  "external_ids": {
+    "wikidata": "Q230199",
+    "imdb": "nm0000271"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1947,
+  "death_year": null
+}

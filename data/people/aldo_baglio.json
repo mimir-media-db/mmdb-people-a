@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_aldo_baglio",
+  "name": "Aldo Baglio",
+  "external_ids": {
+    "wikidata": "Q1039335",
+    "imdb": "nm0017623"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1958,
+  "death_year": null
+}

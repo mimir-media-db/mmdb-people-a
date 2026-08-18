@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_andrea_bocelli",
+  "name": "Andrea Bocelli",
+  "external_ids": {
+    "wikidata": "Q42402",
+    "imdb": "nm0004765"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1958,
+  "death_year": null
+}

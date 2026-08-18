@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_amy_robinson",
+  "name": "Amy Robinson",
+  "external_ids": {
+    "wikidata": "Q3614747",
+    "imdb": "nm0732364"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1948,
+  "death_year": null
+}

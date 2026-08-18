@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_andrew_garfield",
+  "name": "Andrew Garfield",
+  "external_ids": {
+    "wikidata": "Q23891",
+    "imdb": "nm1940449"
+  },
+  "last_updated": "2026-08-12",
+  "birth_year": 1983,
+  "death_year": null
+}

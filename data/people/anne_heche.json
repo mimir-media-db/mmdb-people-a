@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_anne_heche",
+  "name": "Anne Heche",
+  "external_ids": {
+    "wikidata": "Q234610",
+    "imdb": "nm0000162"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1969,
+  "death_year": 2022
+}

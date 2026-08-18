@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alex_macqueen",
+  "name": "Alex MacQueen",
+  "external_ids": {
+    "wikidata": "Q4717408",
+    "imdb": "nm1276507"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1974,
+  "death_year": null
+}

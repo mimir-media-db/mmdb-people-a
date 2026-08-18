@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_anna_falchi",
+  "name": "Anna Falchi",
+  "external_ids": {
+    "wikidata": "Q466705",
+    "imdb": "nm0001197"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1972,
+  "death_year": null
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_drummond",
+  "name": "Alice Drummond",
+  "external_ids": {
+    "wikidata": "Q143369",
+    "imdb": "nm0238541"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1928,
+  "death_year": 2016
+}

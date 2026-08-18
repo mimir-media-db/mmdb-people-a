@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alan_clay",
+  "name": "Alan Clay",
+  "external_ids": {
+    "wikidata": "Q4706380",
+    "imdb": "nm3365495"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1954,
+  "death_year": null
+}

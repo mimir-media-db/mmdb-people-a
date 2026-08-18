@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_angelababy",
+  "name": "Angelababy",
+  "external_ids": {
+    "wikidata": "Q2568122",
+    "imdb": "nm2854802"
+  },
+  "last_updated": "2026-08-16",
+  "birth_year": 1989,
+  "death_year": null
+}
