@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_al_weaver",
+  "name": "Al Weaver",
+  "external_ids": {
+    "wikidata": "Q4704952",
+    "imdb": "nm1632403"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1981,
+  "death_year": null
+}

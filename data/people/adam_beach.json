@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_adam_beach",
+  "name": "Adam Beach",
+  "external_ids": {
+    "wikidata": "Q348755",
+    "imdb": "nm0063440"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1972,
+  "death_year": null
+}

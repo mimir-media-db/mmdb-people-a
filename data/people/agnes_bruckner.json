@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_agnes_bruckner",
+  "name": "Agnes Bruckner",
+  "external_ids": {
+    "wikidata": "Q239396",
+    "imdb": "nm0115671"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1985,
+  "death_year": null
+}

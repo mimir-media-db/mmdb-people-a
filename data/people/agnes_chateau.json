@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_agnes_chateau",
+  "name": "Agnès Château",
+  "external_ids": {
+    "wikidata": "Q2826979",
+    "imdb": "nm0161699"
+  },
+  "last_updated": "2026-08-15",
+  "birth_year": 1953,
+  "death_year": null
+}
