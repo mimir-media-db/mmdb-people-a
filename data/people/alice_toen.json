@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_toen",
+  "name": "Alice Toen",
+  "external_ids": {
+    "wikidata": "Q4450389",
+    "imdb": "nm0865445"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1924
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_aurel_klimt",
+  "name": "Aurel Klimt",
+  "external_ids": {
+    "wikidata": "Q10859165",
+    "imdb": "nm0459571"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1972
+}

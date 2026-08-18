@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alan_king",
+  "name": "Alan King",
+  "external_ids": {
+    "wikidata": "Q643106",
+    "imdb": "nm0454418"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1927,
+  "death_year": 2004
+}

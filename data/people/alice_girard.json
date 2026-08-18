@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_girard",
+  "name": "Alice Girard",
+  "external_ids": {
+    "wikidata": "Q95734744",
+    "imdb": "nm5221389"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}

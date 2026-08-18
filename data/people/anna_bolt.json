@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_anna_bolt",
+  "name": "Anna Bolt",
+  "external_ids": {
+    "wikidata": "Q2850466",
+    "imdb": "nm0093319"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}

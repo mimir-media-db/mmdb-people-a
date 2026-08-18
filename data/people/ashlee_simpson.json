@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ashlee_simpson",
+  "name": "Ashlee Simpson",
+  "external_ids": {
+    "wikidata": "Q213521",
+    "imdb": "nm1249883"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1984
+}

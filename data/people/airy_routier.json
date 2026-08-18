@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_airy_routier",
+  "name": "Airy Routier",
+  "external_ids": {
+    "wikidata": "Q16185711",
+    "imdb": "nm0746142"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952
+}

@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_alex_smith",
+  "name": "Alex Smith",
+  "external_ids": {
+    "wikidata": "Q113654396",
+    "imdb": "nm0807243"
+  },
+  "last_updated": "2026-08-18"
+}

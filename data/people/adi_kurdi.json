@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_adi_kurdi",
+  "name": "Adi Kurdi",
+  "external_ids": {
+    "wikidata": "Q12470712",
+    "imdb": "nm0475643"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1948,
+  "death_year": 2020
+}
