@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_albert_cohen",
+  "name": "Albert Cohen",
+  "external_ids": {
+    "wikidata": "Q6935084",
+    "imdb": "nm0169183"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1932,
+  "death_year": 2025
+}

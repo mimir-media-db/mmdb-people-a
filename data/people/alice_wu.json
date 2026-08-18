@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_wu",
+  "name": "Alice Wu",
+  "external_ids": {
+    "wikidata": "Q2836688",
+    "imdb": "nm1226108"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}
