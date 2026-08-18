@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ann_hearn",
+  "name": "Ann Hearn",
+  "external_ids": {
+    "wikidata": "Q2850389",
+    "imdb": "nm0372475"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1953
+}

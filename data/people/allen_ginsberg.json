@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_allen_ginsberg",
+  "name": "Allen Ginsberg",
+  "external_ids": {
+    "wikidata": "Q6711",
+    "imdb": "nm0320091"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1926,
+  "death_year": 1997
+}

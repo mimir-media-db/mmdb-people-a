@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ai_kanade",
+  "name": "Ai Kanade",
+  "external_ids": {
+    "wikidata": "Q1092037",
+    "imdb": "nm1773317"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1982
+}
