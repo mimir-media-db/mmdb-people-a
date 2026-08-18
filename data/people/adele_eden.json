@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_adele_eden",
+  "name": "Adele Eden",
+  "external_ids": {
+    "wikidata": "Q47516555",
+    "imdb": "nm1689706"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1999
+}

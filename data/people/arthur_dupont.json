@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_arthur_dupont",
+  "name": "Arthur Dupont",
+  "external_ids": {
+    "wikidata": "Q2865083",
+    "imdb": "nm1570563"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1985
+}

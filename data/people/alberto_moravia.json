@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alberto_moravia",
+  "name": "Alberto Moravia",
+  "external_ids": {
+    "wikidata": "Q161933",
+    "imdb": "nm0603179"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1907,
+  "death_year": 1990
+}

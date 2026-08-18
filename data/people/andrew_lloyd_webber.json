@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_andrew_lloyd_webber",
+  "name": "Andrew Lloyd Webber",
+  "external_ids": {
+    "wikidata": "Q180975",
+    "imdb": "nm0515908"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1948
+}

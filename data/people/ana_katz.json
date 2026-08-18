@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ana_katz",
+  "name": "Ana Katz",
+  "external_ids": {
+    "wikidata": "Q5673824",
+    "imdb": "nm1195064"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1975
+}

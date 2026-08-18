@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_al_michaels",
+  "name": "Al Michaels",
+  "external_ids": {
+    "wikidata": "Q978633",
+    "imdb": "nm0584279"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1944
+}

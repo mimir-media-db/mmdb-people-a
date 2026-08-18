@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_austin_basis",
+  "name": "Austin Basis",
+  "external_ids": {
+    "wikidata": "Q3629937",
+    "imdb": "nm1648016"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1976
+}

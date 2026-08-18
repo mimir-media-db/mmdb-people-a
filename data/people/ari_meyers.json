@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ari_meyers",
+  "name": "Ari Meyers",
+  "external_ids": {
+    "wikidata": "Q2861145",
+    "imdb": "nm0583487"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}
