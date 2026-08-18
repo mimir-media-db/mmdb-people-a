@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_anna_pirog",
+  "name": "Anna Piróg",
+  "external_ids": {
+    "wikidata": "Q9155563",
+    "imdb": "nm1442448"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1977
+}
