@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_awie",
+  "name": "Awie",
+  "external_ids": {
+    "wikidata": "Q4830060",
+    "imdb": "nm0043429"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1968
+}
