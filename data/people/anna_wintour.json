@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_anna_wintour",
+  "name": "Anna Wintour",
+  "external_ids": {
+    "wikidata": "Q230744",
+    "imdb": "nm1659661"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1949,
+  "death_year": null
+}

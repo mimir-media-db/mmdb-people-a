@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_anthony_hopkins",
+  "name": "Anthony Hopkins",
+  "external_ids": {
+    "wikidata": "Q65932",
+    "imdb": "nm0000164"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1937,
+  "death_year": null
+}

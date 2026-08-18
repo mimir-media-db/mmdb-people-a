@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_antonio_banderas",
+  "name": "Antonio Banderas",
+  "external_ids": {
+    "wikidata": "Q41548",
+    "imdb": "nm0000104"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1960,
+  "death_year": null
+}

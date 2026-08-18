@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_anna_ukolova",
+  "name": "Anna Ukolova",
+  "external_ids": {
+    "wikidata": "Q13218087",
+    "imdb": "nm1748835"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1978,
+  "death_year": null
+}

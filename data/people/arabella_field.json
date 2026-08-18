@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_arabella_field",
+  "name": "Arabella Field",
+  "external_ids": {
+    "wikidata": "Q2859342",
+    "imdb": "nm0275890"
+  },
+  "last_updated": "2026-08-13",
+  "birth_year": 1965,
+  "death_year": null
+}
