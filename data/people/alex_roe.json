@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alex_roe",
+  "name": "Alex Roe",
+  "external_ids": {
+    "wikidata": "Q20873391",
+    "imdb": "nm1025139"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1990
+}

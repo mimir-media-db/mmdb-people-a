@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ali_hillis",
+  "name": "Ali Hillis",
+  "external_ids": {
+    "wikidata": "Q299519",
+    "imdb": "nm0385029"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}

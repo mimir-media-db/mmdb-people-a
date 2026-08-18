@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alberta_watson",
+  "name": "Alberta Watson",
+  "external_ids": {
+    "wikidata": "Q262389",
+    "imdb": "nm0914491"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955,
+  "death_year": 2015
+}

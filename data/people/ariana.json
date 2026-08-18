@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ariana",
+  "name": "Ariana",
+  "external_ids": {
+    "wikidata": "Q2861164",
+    "imdb": "nm0034655"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_annie_miller",
+  "name": "Annie Miller",
+  "external_ids": {
+    "wikidata": "Q23660652",
+    "imdb": "nm0587908"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1945
+}

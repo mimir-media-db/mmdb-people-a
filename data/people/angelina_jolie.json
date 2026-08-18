@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_angelina_jolie",
+  "name": "Angelina Jolie",
+  "external_ids": {
+    "wikidata": "Q13909",
+    "imdb": "nm0001401"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1975
+}

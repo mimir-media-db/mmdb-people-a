@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alley_mills",
+  "name": "Alley Mills",
+  "external_ids": {
+    "wikidata": "Q444699",
+    "imdb": "nm0589896"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951
+}

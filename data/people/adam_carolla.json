@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_adam_carolla",
+  "name": "Adam Carolla",
+  "external_ids": {
+    "wikidata": "Q4119",
+    "imdb": "nm0004805"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}

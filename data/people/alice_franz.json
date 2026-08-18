@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_franz",
+  "name": "Alice Franz",
+  "external_ids": {
+    "wikidata": "Q2646874",
+    "imdb": "nm0291819"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1912,
+  "death_year": 2011
+}

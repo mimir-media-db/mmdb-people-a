@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alan_rickman",
+  "name": "Alan Rickman",
+  "external_ids": {
+    "wikidata": "Q106481",
+    "imdb": "nm0000614"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1946,
+  "death_year": 2016
+}

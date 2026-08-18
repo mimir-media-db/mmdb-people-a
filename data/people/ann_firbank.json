@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ann_firbank",
+  "name": "Ann Firbank",
+  "external_ids": {
+    "wikidata": "Q2850382",
+    "imdb": "nm0278615"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1933
+}

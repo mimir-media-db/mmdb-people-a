@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_anne_kreis",
+  "name": "Anne Kreis",
+  "external_ids": {
+    "wikidata": "Q2851149",
+    "imdb": "nm0470669"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1949
+}
