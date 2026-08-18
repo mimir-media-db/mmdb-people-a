@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_treff",
+  "name": "Alice Treff",
+  "external_ids": {
+    "wikidata": "Q107599",
+    "imdb": "nm0871710"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1906,
+  "death_year": 2003
+}

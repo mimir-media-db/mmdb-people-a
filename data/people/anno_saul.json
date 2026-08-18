@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_anno_saul",
+  "name": "Anno Saul",
+  "external_ids": {
+    "wikidata": "Q567269",
+    "imdb": "nm0766649"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}

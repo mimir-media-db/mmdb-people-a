@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ana_villa",
+  "name": "Ana Villa",
+  "external_ids": {
+    "wikidata": "Q5674121",
+    "imdb": "nm0897574"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1973
+}

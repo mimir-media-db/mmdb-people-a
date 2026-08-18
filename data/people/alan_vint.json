@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alan_vint",
+  "name": "Alan Vint",
+  "external_ids": {
+    "wikidata": "Q4707963",
+    "imdb": "nm0899106"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1944,
+  "death_year": 2006
+}

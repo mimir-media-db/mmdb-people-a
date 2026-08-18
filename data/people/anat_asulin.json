@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_anat_asulin",
+  "name": "Anat Asulin",
+  "external_ids": {
+    "wikidata": "Q6782417",
+    "imdb": "nm0040181"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1966
+}
