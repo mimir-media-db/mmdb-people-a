@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_arthur_wong",
+  "name": "Arthur Wong",
+  "external_ids": {
+    "wikidata": "Q2865389",
+    "imdb": "nm0938939"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1999
+}

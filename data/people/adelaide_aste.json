@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_adelaide_aste",
+  "name": "Adelaide Aste",
+  "external_ids": {
+    "wikidata": "Q3605140",
+    "imdb": "nm1584102"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1927,
+  "death_year": 2013
+}

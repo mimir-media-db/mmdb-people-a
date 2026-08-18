@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_art_blakey",
+  "name": "Art Blakey",
+  "external_ids": {
+    "wikidata": "Q311715",
+    "imdb": "nm0086845"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1919,
+  "death_year": 1990
+}
