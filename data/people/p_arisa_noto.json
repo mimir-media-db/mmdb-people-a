@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_arisa_noto",
+  "name": "Arisa Noto",
+  "external_ids": {
+    "wikidata": "Q1058521",
+    "imdb": "nm4181871"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1988
+}

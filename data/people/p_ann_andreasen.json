@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ann_andreasen",
+  "name": "Ann Andreasen",
+  "external_ids": {
+    "wikidata": "Q66023299",
+    "imdb": "nm1683111"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1959
+}

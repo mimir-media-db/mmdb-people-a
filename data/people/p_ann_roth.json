@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ann_roth",
+  "name": "Ann Roth",
+  "external_ids": {
+    "wikidata": "Q508660",
+    "imdb": "nm0744778"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1931
+}
