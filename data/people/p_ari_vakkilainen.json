@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ari_vakkilainen",
+  "name": "Ari Vakkilainen",
+  "external_ids": {
+    "wikidata": "Q16991125",
+    "imdb": "nm1115486"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1959
+}
