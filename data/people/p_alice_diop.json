@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_diop",
+  "name": "Alice Diop",
+  "external_ids": {
+    "wikidata": "Q24719455",
+    "imdb": "nm4629833"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}

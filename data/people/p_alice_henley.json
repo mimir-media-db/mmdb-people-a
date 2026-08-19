@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_henley",
+  "name": "Alice Henley",
+  "external_ids": {
+    "wikidata": "Q3611680",
+    "imdb": "nm2466446"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}

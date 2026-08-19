@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_anderson_cooper",
+  "name": "Anderson Cooper",
+  "external_ids": {
+    "wikidata": "Q316997",
+    "imdb": "nm0177846"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1967
+}

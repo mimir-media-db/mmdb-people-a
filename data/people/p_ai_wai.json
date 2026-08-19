@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ai_wai",
+  "name": "Ai Wai",
+  "external_ids": {
+    "wikidata": "Q7212623",
+    "imdb": "nm0014421"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1959
+}
