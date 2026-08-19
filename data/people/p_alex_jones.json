@@ -3,10 +3,9 @@
   "id": "p_alex_jones",
   "name": "Alex Jones",
   "external_ids": {
-    "wikidata": "Q319121",
-    "imdb": "nm1093953"
+    "wikidata": "Q113571608",
+    "imdb": "nm5356392"
   },
-  "last_updated": "2026-08-15",
-  "birth_year": 1974,
-  "death_year": null
+  "last_updated": "2026-08-19",
+  "birth_year": 1991
 }
