@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_prime",
+  "name": "Alice Prime",
+  "external_ids": {
+    "wikidata": "Q111432249",
+    "imdb": "nm5292811"
+  },
+  "last_updated": "2026-08-19"
+}
