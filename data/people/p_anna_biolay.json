@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_anna_biolay",
+  "name": "Anna Biolay",
+  "external_ids": {
+    "wikidata": "Q75619296",
+    "imdb": "nm5743947"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2003
+}
