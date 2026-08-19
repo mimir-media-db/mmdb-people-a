@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_amelia_brain",
+  "name": "Amelia Brain",
+  "external_ids": {
+    "wikidata": "Q111738600",
+    "imdb": "nm5583136"
+  },
+  "last_updated": "2026-08-19"
+}
