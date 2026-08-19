@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_pagani",
+  "name": "Alice Pagani",
+  "external_ids": {
+    "wikidata": "Q30333063",
+    "imdb": "nm8264557"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1998
+}
