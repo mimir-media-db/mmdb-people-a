@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ari_up",
+  "name": "Ari Up",
+  "external_ids": {
+    "wikidata": "Q2013235",
+    "imdb": "nm1399450"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1962,
+  "death_year": 2010
+}
