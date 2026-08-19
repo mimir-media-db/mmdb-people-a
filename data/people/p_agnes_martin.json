@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_agnes_martin",
+  "name": "Agnes Martin",
+  "external_ids": {
+    "wikidata": "Q275610",
+    "imdb": "nm0551868"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1912,
+  "death_year": 2004
+}

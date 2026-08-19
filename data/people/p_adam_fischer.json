@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_adam_fischer",
+  "name": "Adam Fischer",
+  "external_ids": {
+    "wikidata": "Q71247314",
+    "imdb": "nm6424129"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}

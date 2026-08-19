@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_anuk_ens",
+  "name": "Anuk Ens",
+  "external_ids": {
+    "wikidata": "Q612413",
+    "imdb": "nm1607693"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1964
+}
