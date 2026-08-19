@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_austin_butler",
+  "name": "Austin Butler",
+  "external_ids": {
+    "wikidata": "Q469954",
+    "imdb": "nm2581521"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1991
+}
