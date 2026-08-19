@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_angus_cloud",
+  "name": "Angus Cloud",
+  "external_ids": {
+    "wikidata": "Q65600671",
+    "imdb": "nm3783307"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1998,
+  "death_year": 2023
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alex_anton",
+  "name": "Alex Anton",
+  "external_ids": {
+    "wikidata": "Q11850744",
+    "imdb": "nm2311069"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1994
+}
