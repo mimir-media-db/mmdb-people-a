@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ali_cook",
+  "name": "Ali Cook",
+  "external_ids": {
+    "wikidata": "Q4724732",
+    "imdb": "nm1246334"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1975
+}

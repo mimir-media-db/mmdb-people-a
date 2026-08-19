@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_artus",
+  "name": "Artus",
+  "external_ids": {
+    "wikidata": "Q42867730",
+    "imdb": "nm6113836"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}

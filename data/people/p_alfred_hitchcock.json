@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alfred_hitchcock",
+  "name": "Alfred Hitchcock",
+  "external_ids": {
+    "wikidata": "Q7374",
+    "imdb": "nm0000033"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1899,
+  "death_year": 1980
+}

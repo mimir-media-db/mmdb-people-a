@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_aicha_boro",
+  "name": "Aïcha Boro",
+  "external_ids": {
+    "wikidata": "Q100433813",
+    "imdb": "nm11074605"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}

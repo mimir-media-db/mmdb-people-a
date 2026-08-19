@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_andrea_paris",
+  "name": "Andrea Paris",
+  "external_ids": {
+    "wikidata": "Q23829651",
+    "imdb": "nm2000882"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1972
+}
