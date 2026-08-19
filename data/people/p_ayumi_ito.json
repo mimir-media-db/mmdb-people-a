@@ -1,11 +1,10 @@
 {
   "schema_version": 1,
   "id": "p_ayumi_ito",
-  "name": "Ayumi Itō",
+  "name": "Ayumi Ito",
   "external_ids": {
-    "wikidata": "Q1197179",
-    "imdb": "nm0411683"
+    "wikidata": "Q11648363"
   },
   "last_updated": "2026-08-19",
-  "birth_year": 1980
+  "birth_year": 1964
 }
