@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_anthony_perkins",
+  "name": "Anthony Perkins",
+  "external_ids": {
+    "wikidata": "Q193146",
+    "imdb": "nm0000578"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1932,
+  "death_year": 1992
+}

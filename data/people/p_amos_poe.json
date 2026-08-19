@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_amos_poe",
+  "name": "Amos Poe",
+  "external_ids": {
+    "wikidata": "Q360675",
+    "imdb": "nm0688096"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1949,
+  "death_year": 2025
+}

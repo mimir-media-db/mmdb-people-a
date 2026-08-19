@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_st_clair",
+  "name": "Alice St Clair",
+  "external_ids": {
+    "wikidata": "Q17012695",
+    "imdb": "nm4122818"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1988
+}
