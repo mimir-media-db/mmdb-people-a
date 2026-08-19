@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alexis_texas",
+  "name": "Alexis Texas",
+  "external_ids": {
+    "wikidata": "Q35977",
+    "imdb": "nm2686712"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}

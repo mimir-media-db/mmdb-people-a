@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_aldo_ralli",
+  "name": "Aldo Ralli",
+  "external_ids": {
+    "wikidata": "Q3609301",
+    "imdb": "nm0707726"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1935,
+  "death_year": 2016
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_annie_man",
+  "name": "Annie Man",
+  "external_ids": {
+    "wikidata": "Q4769377",
+    "imdb": "nm0541181"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}
