@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_borges",
+  "name": "Alice Borges",
+  "external_ids": {
+    "wikidata": "Q9603736",
+    "imdb": "nm0096544"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1966
+}

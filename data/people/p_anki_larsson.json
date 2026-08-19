@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_anki_larsson",
+  "name": "Anki Larsson",
+  "external_ids": {
+    "wikidata": "Q4961027",
+    "imdb": "nm0489133"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1954,
+  "death_year": 2021
+}

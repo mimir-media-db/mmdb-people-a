@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_astrid_lindgren",
+  "name": "Astrid Lindgren",
+  "external_ids": {
+    "wikidata": "Q55767",
+    "imdb": "nm0511807"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1907,
+  "death_year": 2002
+}

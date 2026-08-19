@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alex_perry",
+  "name": "Alex Perry",
+  "external_ids": {
+    "wikidata": "Q4717620",
+    "imdb": "nm2345539"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1963
+}

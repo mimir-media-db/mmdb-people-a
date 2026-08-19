@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_anumol",
+  "name": "Anumol",
+  "external_ids": {
+    "wikidata": "Q16146686",
+    "imdb": "nm5135345"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}

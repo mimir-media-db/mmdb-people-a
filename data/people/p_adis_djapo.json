@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_adis_djapo",
+  "name": "Adis Djapo",
+  "external_ids": {
+    "wikidata": "Q95772427",
+    "imdb": "nm1584816"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1981
+}

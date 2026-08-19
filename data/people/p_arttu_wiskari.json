@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_arttu_wiskari",
+  "name": "Arttu Wiskari",
+  "external_ids": {
+    "wikidata": "Q4801574",
+    "imdb": "nm2646255"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}
