@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_lee",
+  "name": "Alice Lee",
+  "external_ids": {
+    "wikidata": "Q33103648",
+    "imdb": "nm5333857"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1989
+}
