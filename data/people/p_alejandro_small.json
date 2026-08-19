@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alejandro_small",
+  "name": "Alejandro Small",
+  "external_ids": {
+    "wikidata": "Q123419587",
+    "imdb": "nm9748365"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1990
+}

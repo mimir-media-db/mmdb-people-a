@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_andre_singer",
+  "name": "André Singer",
+  "external_ids": {
+    "wikidata": "Q4754876",
+    "imdb": "nm0801885"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1945
+}
