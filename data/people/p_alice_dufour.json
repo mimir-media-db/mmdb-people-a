@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_dufour",
+  "name": "Alice Dufour",
+  "external_ids": {
+    "wikidata": "Q62749412",
+    "imdb": "nm3744010"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}

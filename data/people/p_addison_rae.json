@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_addison_rae",
+  "name": "Addison Rae",
+  "external_ids": {
+    "wikidata": "Q83739405",
+    "imdb": "nm11290905"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2000
+}
