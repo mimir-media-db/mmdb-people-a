@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alan_sys",
+  "name": "Alan Sýs",
+  "external_ids": {
+    "wikidata": "Q107468223",
+    "imdb": "nm9892647"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1992
+}
