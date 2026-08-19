@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_adam_bond",
+  "name": "Adam Bond",
+  "external_ids": {
+    "wikidata": "Q4678756",
+    "imdb": "nm2713969"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1981
+}

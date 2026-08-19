@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ari_brickman",
+  "name": "Ari Brickman",
+  "external_ids": {
+    "wikidata": "Q77063294",
+    "imdb": "nm1138862"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1975
+}
