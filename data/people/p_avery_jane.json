@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_avery_jane",
+  "name": "Avery Jane",
+  "external_ids": {
+    "wikidata": "Q116978889",
+    "imdb": "nm12127706"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1994
+}

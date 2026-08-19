@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_auden_thornton",
+  "name": "Auden Thornton",
+  "external_ids": {
+    "wikidata": "Q85557509",
+    "imdb": "nm0861487"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1988
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_anton_rival",
+  "name": "Anton Rival",
+  "external_ids": {
+    "wikidata": "Q111450731",
+    "imdb": "nm11217656"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1991
+}
