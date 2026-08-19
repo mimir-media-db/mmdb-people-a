@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_atlee",
+  "name": "Atlee",
+  "external_ids": {
+    "wikidata": "Q19281615",
+    "imdb": "nm5961051"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}

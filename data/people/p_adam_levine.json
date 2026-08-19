@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_adam_levine",
+  "name": "Adam Levine",
+  "external_ids": {
+    "wikidata": "Q219631",
+    "imdb": "nm1747013"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}

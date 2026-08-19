@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_douard",
+  "name": "Alice Douard",
+  "external_ids": {
+    "wikidata": "Q21097713",
+    "imdb": "nm4945572"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}
