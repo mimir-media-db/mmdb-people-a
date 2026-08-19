@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_amanda_fix",
+  "name": "Amanda Fix",
+  "external_ids": {
+    "wikidata": "Q123739722",
+    "imdb": "nm9931958"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2001
+}
