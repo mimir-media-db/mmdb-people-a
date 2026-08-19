@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_aretha_franklin",
+  "name": "Aretha Franklin",
+  "external_ids": {
+    "wikidata": "Q125121",
+    "imdb": "nm0291349"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1942,
+  "death_year": 2018
+}

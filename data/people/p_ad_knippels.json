@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ad_knippels",
+  "name": "Ad Knippels",
+  "external_ids": {
+    "wikidata": "Q29046717",
+    "imdb": "nm0461175"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1970
+}

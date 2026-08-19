@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_andrew_getty",
+  "name": "Andrew Getty",
+  "external_ids": {
+    "wikidata": "Q19750971",
+    "imdb": "nm1274189"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1967,
+  "death_year": 2015
+}
