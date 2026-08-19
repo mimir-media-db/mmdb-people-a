@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_agnes_born",
+  "name": "Agnes Born",
+  "external_ids": {
+    "wikidata": "Q110380236",
+    "imdb": "nm8817404"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1995
+}
