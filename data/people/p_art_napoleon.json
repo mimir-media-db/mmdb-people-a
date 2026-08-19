@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_art_napoleon",
+  "name": "Art Napoleon",
+  "external_ids": {
+    "wikidata": "Q2864552",
+    "imdb": "nm0621073"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1920,
+  "death_year": 2003
+}
