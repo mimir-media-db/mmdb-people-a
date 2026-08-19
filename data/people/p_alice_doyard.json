@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_doyard",
+  "name": "Alice Doyard",
+  "external_ids": {
+    "wikidata": "Q105993263",
+    "imdb": "nm3550163"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}
