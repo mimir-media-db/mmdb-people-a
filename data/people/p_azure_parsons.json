@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_azure_parsons",
+  "name": "Azure Parsons",
+  "external_ids": {
+    "wikidata": "Q16223349",
+    "imdb": "nm1767737"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}

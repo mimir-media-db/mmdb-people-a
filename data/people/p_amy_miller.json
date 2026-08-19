@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_amy_miller",
+  "name": "Amy Miller",
+  "external_ids": {
+    "wikidata": "Q4749318",
+    "imdb": "nm3416655"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}
