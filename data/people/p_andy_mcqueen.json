@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_andy_mcqueen",
+  "name": "Andy McQueen",
+  "external_ids": {
+    "wikidata": "Q86609566",
+    "imdb": "nm4424472"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1990
+}

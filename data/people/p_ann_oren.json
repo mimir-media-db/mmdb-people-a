@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ann_oren",
+  "name": "Ann Oren",
+  "external_ids": {
+    "wikidata": "Q113495050",
+    "imdb": "nm2185108"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1975
+}

@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_lucy",
+  "name": "Alice Lucy",
+  "external_ids": {
+    "wikidata": "Q114102781",
+    "imdb": "nm8212881"
+  },
+  "last_updated": "2026-08-19"
+}

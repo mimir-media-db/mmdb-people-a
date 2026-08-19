@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alton_mason",
+  "name": "Alton Mason",
+  "external_ids": {
+    "wikidata": "Q65059880",
+    "imdb": "nm10080812"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1997
+}
