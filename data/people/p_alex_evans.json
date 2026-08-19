@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alex_evans",
+  "name": "Alex Evans",
+  "external_ids": {
+    "wikidata": "Q4716966",
+    "imdb": "nm2333547"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1989
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alec_guinness",
+  "name": "Alec Guinness",
+  "external_ids": {
+    "wikidata": "Q103894",
+    "imdb": "nm0000027"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1914,
+  "death_year": 2000
+}
