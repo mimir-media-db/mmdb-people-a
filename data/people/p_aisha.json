@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_aisha",
+  "name": "Aisha",
+  "external_ids": {
+    "wikidata": "Q113569998",
+    "imdb": "nm8194457"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1994
+}
