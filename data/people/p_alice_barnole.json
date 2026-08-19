@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_barnole",
+  "name": "Alice Barnole",
+  "external_ids": {
+    "wikidata": "Q15973462",
+    "imdb": "nm4448249"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_adam_driver",
+  "name": "Adam Driver",
+  "external_ids": {
+    "wikidata": "Q4678990",
+    "imdb": "nm3485845"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}

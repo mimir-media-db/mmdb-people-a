@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_anna_camp",
+  "name": "Anna Camp",
+  "external_ids": {
+    "wikidata": "Q1150316",
+    "imdb": "nm2319871"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}
