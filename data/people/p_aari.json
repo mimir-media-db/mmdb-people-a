@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_aari",
+  "name": "Aari",
+  "external_ids": {
+    "wikidata": "Q4661723",
+    "imdb": "nm12100203"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}
