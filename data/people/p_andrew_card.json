@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_andrew_card",
+  "name": "Andrew Card",
+  "external_ids": {
+    "wikidata": "Q504029",
+    "imdb": "nm2485272"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1947
+}

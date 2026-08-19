@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_anthony_davis",
+  "name": "Anthony Davis",
+  "external_ids": {
+    "wikidata": "Q317008",
+    "imdb": "nm4992797"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1993
+}
