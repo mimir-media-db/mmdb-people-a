@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_artel_great",
+  "name": "Artel Great",
+  "external_ids": {
+    "wikidata": "Q65580975",
+    "imdb": "nm0907539"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1981
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_anna_speller",
+  "name": "Anna Speller",
+  "external_ids": {
+    "wikidata": "Q2669470",
+    "imdb": "nm1751500"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}

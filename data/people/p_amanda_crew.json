@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_amanda_crew",
+  "name": "Amanda Crew",
+  "external_ids": {
+    "wikidata": "Q202732",
+    "imdb": "nm1468739"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}

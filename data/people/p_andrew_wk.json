@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_andrew_wk",
+  "name": "Andrew W.K.",
+  "external_ids": {
+    "wikidata": "Q505898",
+    "imdb": "nm0929146"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}

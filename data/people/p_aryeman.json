@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_aryeman",
+  "name": "Aryeman",
+  "external_ids": {
+    "wikidata": "Q13115770",
+    "imdb": "nm1794338"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1980
+}
