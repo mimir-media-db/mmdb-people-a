@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_amy_starz",
+  "name": "Amy Starz",
+  "external_ids": {
+    "wikidata": "Q113620950",
+    "imdb": "nm3511284"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1989
+}

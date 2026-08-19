@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_allan_hawco",
+  "name": "Allan Hawco",
+  "external_ids": {
+    "wikidata": "Q4730674",
+    "imdb": "nm0369935"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1977
+}

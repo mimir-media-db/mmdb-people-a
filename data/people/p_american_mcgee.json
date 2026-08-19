@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_american_mcgee",
+  "name": "American McGee",
+  "external_ids": {
+    "wikidata": "Q465657",
+    "imdb": "nm0569035"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1972
+}
