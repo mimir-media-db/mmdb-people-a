@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_asap_rocky",
+  "name": "ASAP Rocky",
+  "external_ids": {
+    "wikidata": "Q129910",
+    "imdb": "nm5473880"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1988
+}
