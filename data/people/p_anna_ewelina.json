@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_anna_ewelina",
+  "name": "Anna Ewelina",
+  "external_ids": {
+    "wikidata": "Q560312",
+    "imdb": "nm4112524"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}

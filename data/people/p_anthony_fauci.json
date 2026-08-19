@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_anthony_fauci",
+  "name": "Anthony Fauci",
+  "external_ids": {
+    "wikidata": "Q573246",
+    "imdb": "nm2118834"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1940
+}
