@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ann_skelly",
+  "name": "Ann Skelly",
+  "external_ids": {
+    "wikidata": "Q47467285",
+    "imdb": "nm7024798"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1996
+}
