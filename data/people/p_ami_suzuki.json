@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ami_suzuki",
+  "name": "Ami Suzuki",
+  "external_ids": {
+    "wikidata": "Q180723",
+    "imdb": "nm2336962"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1982
+}
