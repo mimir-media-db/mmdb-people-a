@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_adam_yauch",
+  "name": "Adam Yauch",
+  "external_ids": {
+    "wikidata": "Q344784",
+    "imdb": "nm0946888"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1964,
+  "death_year": 2012
+}

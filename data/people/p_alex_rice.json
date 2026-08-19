@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alex_rice",
+  "name": "Alex Rice",
+  "external_ids": {
+    "wikidata": "Q3330385",
+    "imdb": "nm0723339"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1972
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_annie_sprinkle",
+  "name": "Annie Sprinkle",
+  "external_ids": {
+    "wikidata": "Q433576",
+    "imdb": "nm0819810"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1954
+}

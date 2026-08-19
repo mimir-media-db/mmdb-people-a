@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ari_vatanen",
+  "name": "Ari Vatanen",
+  "external_ids": {
+    "wikidata": "Q313199",
+    "imdb": "nm2266662"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1952
+}

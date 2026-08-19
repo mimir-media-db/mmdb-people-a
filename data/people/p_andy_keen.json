@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_andy_keen",
+  "name": "Andy Keen",
+  "external_ids": {
+    "wikidata": "Q4760880",
+    "imdb": "nm2525149"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1968
+}
