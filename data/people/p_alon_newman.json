@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alon_newman",
+  "name": "Alon Newman",
+  "external_ids": {
+    "wikidata": "Q6990059",
+    "imdb": "nm5302461"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1969
+}

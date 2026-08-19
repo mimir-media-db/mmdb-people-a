@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_andre_ware",
+  "name": "Andre Ware",
+  "external_ids": {
+    "wikidata": "Q11851340",
+    "imdb": "nm0912107"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965
+}
