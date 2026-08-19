@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alexander_mcqueen",
+  "name": "Alexander McQueen",
+  "external_ids": {
+    "wikidata": "Q207939",
+    "imdb": "nm1195539"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1969,
+  "death_year": 2010
+}
