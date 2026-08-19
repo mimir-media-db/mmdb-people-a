@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_andre_malraux",
+  "name": "André Malraux",
+  "external_ids": {
+    "wikidata": "Q151164",
+    "imdb": "nm0540716"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1901,
+  "death_year": 1976
+}
