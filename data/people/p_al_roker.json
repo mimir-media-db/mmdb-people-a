@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_al_roker",
+  "name": "Al Roker",
+  "external_ids": {
+    "wikidata": "Q3240869",
+    "imdb": "nm0737963"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1954
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_america_young",
+  "name": "America Young",
+  "external_ids": {
+    "wikidata": "Q4742806",
+    "imdb": "nm0949440"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}

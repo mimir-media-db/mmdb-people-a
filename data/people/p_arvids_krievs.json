@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_arvids_krievs",
+  "name": "Arvīds Krievs",
+  "external_ids": {
+    "wikidata": "Q4240986",
+    "imdb": "nm0471267"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1944
+}

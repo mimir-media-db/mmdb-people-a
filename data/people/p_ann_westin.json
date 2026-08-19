@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ann_westin",
+  "name": "Ann Westin",
+  "external_ids": {
+    "wikidata": "Q4990383",
+    "imdb": "nm1543528"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1956
+}
