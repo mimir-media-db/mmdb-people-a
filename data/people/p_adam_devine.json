@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_adam_devine",
+  "name": "Adam DeVine",
+  "external_ids": {
+    "wikidata": "Q4678957",
+    "imdb": "nm2796745"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}
