@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_amadeus_serafini",
+  "name": "Amadeus Serafini",
+  "external_ids": {
+    "wikidata": "Q24500675",
+    "imdb": "nm5962871"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1990
+}

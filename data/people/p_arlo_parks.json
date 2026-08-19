@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_arlo_parks",
+  "name": "Arlo Parks",
+  "external_ids": {
+    "wikidata": "Q79097672",
+    "imdb": "nm12079530"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2000
+}
