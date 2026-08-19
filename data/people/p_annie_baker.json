@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_annie_baker",
+  "name": "Annie Baker",
+  "external_ids": {
+    "wikidata": "Q4769239",
+    "imdb": "nm6799050"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1980
+}
