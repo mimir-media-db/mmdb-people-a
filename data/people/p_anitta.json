@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_anitta",
+  "name": "Anitta",
+  "external_ids": {
+    "wikidata": "Q13476301",
+    "imdb": "nm5689715"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1993
+}
