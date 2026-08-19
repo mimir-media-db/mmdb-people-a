@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_art_parkinson",
+  "name": "Art Parkinson",
+  "external_ids": {
+    "wikidata": "Q15069989",
+    "imdb": "nm3280686"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 2001
+}

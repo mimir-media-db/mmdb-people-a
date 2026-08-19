@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_atticus_mitchell",
+  "name": "Atticus Mitchell",
+  "external_ids": {
+    "wikidata": "Q533378",
+    "imdb": "nm3620184"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1993
+}
