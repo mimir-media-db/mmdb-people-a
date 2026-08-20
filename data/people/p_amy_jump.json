@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_amy_jump",
+  "name": "Amy Jump",
+  "external_ids": {
+    "wikidata": "Q24532629",
+    "imdb": "nm4207229"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1971
+}
