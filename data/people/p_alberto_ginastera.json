@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alberto_ginastera",
+  "name": "Alberto Ginastera",
+  "external_ids": {
+    "wikidata": "Q311389",
+    "imdb": "nm0319914"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1916,
+  "death_year": 1983
+}

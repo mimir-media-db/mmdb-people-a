@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_lewis",
+  "name": "Alice Lewis",
+  "external_ids": {
+    "wikidata": "Q2836603",
+    "imdb": "nm2811412"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1952
+}
