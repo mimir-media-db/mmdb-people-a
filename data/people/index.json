@@ -1372,6 +1372,12 @@
     "path": "data/people/p_aaron_putnam.json"
   },
   {
+    "id": "p_aaron_rahsaan_thomas",
+    "name": "Aaron Rahsaan Thomas",
+    "birth_year": 1900,
+    "path": "data/people/p_aaron_rahsaan_thomas.json"
+  },
+  {
     "id": "p_aaron_refvem",
     "name": "Aaron Refvem",
     "birth_year": 1997,
@@ -4130,6 +4136,12 @@
     "path": "data/people/p_achmed_el_jennouni.json"
   },
   {
+    "id": "p_acho_estol",
+    "name": "Acho Estol",
+    "birth_year": 1966,
+    "path": "data/people/p_acho_estol.json"
+  },
+  {
     "id": "p_achol",
     "name": "Achol",
     "birth_year": 1992,
@@ -4540,6 +4552,12 @@
     "path": "data/people/p_adam_blaiklock.json"
   },
   {
+    "id": "p_adam_bloom",
+    "name": "Adam Bloom",
+    "birth_year": 1970,
+    "path": "data/people/p_adam_bloom.json"
+  },
+  {
     "id": "p_adam_bobik",
     "name": "Adam Bobik",
     "birth_year": 1988,
@@ -4586,7 +4604,6 @@
   {
     "id": "p_adam_brooks",
     "name": "Adam Brooks",
-    "birth_year": 1956,
     "path": "data/people/p_adam_brooks.json"
   },
   {
@@ -5075,7 +5092,7 @@
   {
     "id": "p_adam_green",
     "name": "Adam Green",
-    "birth_year": 1975,
+    "birth_year": 1981,
     "path": "data/people/p_adam_green.json"
   },
   {
@@ -8345,6 +8362,12 @@
     "path": "data/people/p_adnan_jaffar.json"
   },
   {
+    "id": "p_adnan_joubran",
+    "name": "Adnan Joubran",
+    "birth_year": 1985,
+    "path": "data/people/p_adnan_joubran.json"
+  },
+  {
     "id": "p_adnan_karim",
     "name": "Adnan Karim",
     "birth_year": 1962,
@@ -9790,6 +9813,12 @@
     "path": "data/people/p_adriano_chiaramida.json"
   },
   {
+    "id": "p_adriano_cominotto",
+    "name": "Adriano Cominotto",
+    "birth_year": 1956,
+    "path": "data/people/p_adriano_cominotto.json"
+  },
+  {
     "id": "p_adriano_cutraro",
     "name": "Adriano Cutraro",
     "birth_year": 1982,
@@ -10669,6 +10698,12 @@
     "id": "p_agata_novinski",
     "name": "Agata Novinski",
     "path": "data/people/p_agata_novinski.json"
+  },
+  {
+    "id": "p_agata_nowak",
+    "name": "Agata Nowak",
+    "birth_year": 1996,
+    "path": "data/people/p_agata_nowak.json"
   },
   {
     "id": "p_agata_pruchniewska",
@@ -14458,7 +14493,7 @@
   {
     "id": "p_airy_routier",
     "name": "Airy Routier",
-    "birth_year": 1945,
+    "birth_year": 1952,
     "path": "data/people/p_airy_routier.json"
   },
   {
@@ -15823,6 +15858,12 @@
     "name": "Akiba mitsuki",
     "birth_year": 1994,
     "path": "data/people/p_akiba_mitsuki.json"
+  },
+  {
+    "id": "p_akido",
+    "name": "Akido",
+    "birth_year": 1975,
+    "path": "data/people/p_akido.json"
   },
   {
     "id": "p_akie_kotabe",
@@ -17556,7 +17597,6 @@
   {
     "id": "p_alain_fournier",
     "name": "Alain Fournier",
-    "birth_year": 1951,
     "path": "data/people/p_alain_fournier.json"
   },
   {
@@ -18404,6 +18444,12 @@
     "name": "Alan Gilsenan",
     "birth_year": 1961,
     "path": "data/people/p_alan_gilsenan.json"
+  },
+  {
+    "id": "p_alan_glynn",
+    "name": "Alan Glynn",
+    "birth_year": 1959,
+    "path": "data/people/p_alan_glynn.json"
   },
   {
     "id": "p_alan_grant",
@@ -20276,7 +20322,6 @@
   {
     "id": "p_alberto_ferrari",
     "name": "Alberto Ferrari",
-    "birth_year": 1999,
     "path": "data/people/p_alberto_ferrari.json"
   },
   {
@@ -20304,7 +20349,7 @@
   {
     "id": "p_alberto_gimignani",
     "name": "Alberto Gimignani",
-    "birth_year": 1961,
+    "birth_year": 1960,
     "path": "data/people/p_alberto_gimignani.json"
   },
   {
@@ -21783,6 +21828,12 @@
     "path": "data/people/p_alejandro_hidalgo.json"
   },
   {
+    "id": "p_alejandro_iglesias_rossi",
+    "name": "Alejandro Iglesias Rossi",
+    "birth_year": 1960,
+    "path": "data/people/p_alejandro_iglesias_rossi.json"
+  },
+  {
     "id": "p_alejandro_jodorowsky",
     "name": "Alejandro Jodorowsky",
     "birth_year": 1929,
@@ -22848,7 +22899,7 @@
   {
     "id": "p_aleksandr_ilyin",
     "name": "Aleksandr Ilyin",
-    "birth_year": 1983,
+    "birth_year": 1952,
     "path": "data/people/p_aleksandr_ilyin.json"
   },
   {
@@ -25967,6 +26018,11 @@
     "path": "data/people/p_alex_comas.json"
   },
   {
+    "id": "p_alex_conte",
+    "name": "Alex Conte",
+    "path": "data/people/p_alex_conte.json"
+  },
+  {
     "id": "p_alex_cooke",
     "name": "Alex Cooke",
     "path": "data/people/p_alex_cooke.json"
@@ -26232,8 +26288,8 @@
   },
   {
     "id": "p_alex_garcia",
-    "name": "Alex Garcia",
-    "birth_year": 1980,
+    "name": "Álex García",
+    "birth_year": 1981,
     "path": "data/people/p_alex_garcia.json"
   },
   {
@@ -27108,7 +27164,6 @@
   {
     "id": "p_alex_prager",
     "name": "Alex Prager",
-    "birth_year": 1979,
     "path": "data/people/p_alex_prager.json"
   },
   {
@@ -28075,6 +28130,12 @@
     "name": "Alexander Buresch",
     "birth_year": 1972,
     "path": "data/people/p_alexander_buresch.json"
+  },
+  {
+    "id": "p_alexander_burke",
+    "name": "Alexander Burke",
+    "birth_year": 1983,
+    "path": "data/people/p_alexander_burke.json"
   },
   {
     "id": "p_alexander_calvert",
@@ -29116,6 +29177,12 @@
     "name": "Alexander Scourby",
     "birth_year": 1913,
     "path": "data/people/p_alexander_scourby.json"
+  },
+  {
+    "id": "p_alexander_scriabin",
+    "name": "Alexander Scriabin",
+    "birth_year": 1872,
+    "path": "data/people/p_alexander_scriabin.json"
   },
   {
     "id": "p_alexander_sebastien_lee",
@@ -31821,6 +31888,12 @@
     "id": "p_alexis_rangheard",
     "name": "Alexis Rangheard",
     "path": "data/people/p_alexis_rangheard.json"
+  },
+  {
+    "id": "p_alexis_rault",
+    "name": "Alexis Rault",
+    "birth_year": 1981,
+    "path": "data/people/p_alexis_rault.json"
   },
   {
     "id": "p_alexis_ren",
@@ -42169,7 +42242,6 @@
   {
     "id": "p_amit_gupta",
     "name": "Amit Gupta",
-    "birth_year": 1984,
     "path": "data/people/p_amit_gupta.json"
   },
   {
@@ -42489,6 +42561,12 @@
     "name": "Amnon Buchbinder",
     "birth_year": 1957,
     "path": "data/people/p_amnon_buchbinder.json"
+  },
+  {
+    "id": "p_amnon_fisher",
+    "name": "Amnon Fisher",
+    "birth_year": 1969,
+    "path": "data/people/p_amnon_fisher.json"
   },
   {
     "id": "p_amnon_wolf",
@@ -47884,6 +47962,12 @@
     "path": "data/people/p_andre_garolli.json"
   },
   {
+    "id": "p_andre_georgi",
+    "name": "André Georgi",
+    "birth_year": 1964,
+    "path": "data/people/p_andre_georgi.json"
+  },
+  {
     "id": "p_andre_gladu",
     "name": "André Gladu",
     "birth_year": 1944,
@@ -48866,6 +48950,12 @@
     "path": "data/people/p_andrea_cassinari.json"
   },
   {
+    "id": "p_andrea_cavaletto",
+    "name": "Andrea Cavaletto",
+    "birth_year": 1976,
+    "path": "data/people/p_andrea_cavaletto.json"
+  },
+  {
     "id": "p_andrea_centazzo",
     "name": "Andrea Centazzo",
     "birth_year": 1947,
@@ -49798,6 +49888,11 @@
     "path": "data/people/p_andrea_porporati.json"
   },
   {
+    "id": "p_andrea_portes",
+    "name": "Andrea Portes",
+    "path": "data/people/p_andrea_portes.json"
+  },
+  {
     "id": "p_andrea_powell",
     "name": "Andrea Powell",
     "birth_year": 1965,
@@ -50042,6 +50137,12 @@
     "id": "p_andrea_sevilla",
     "name": "Andrea Sevilla",
     "path": "data/people/p_andrea_sevilla.json"
+  },
+  {
+    "id": "p_andrea_sixt",
+    "name": "Andrea Sixt",
+    "birth_year": 1958,
+    "path": "data/people/p_andrea_sixt.json"
   },
   {
     "id": "p_andrea_sperling",
@@ -50480,6 +50581,12 @@
     "name": "Andreas Deja",
     "birth_year": 1957,
     "path": "data/people/p_andreas_deja.json"
+  },
+  {
+    "id": "p_andreas_dirr",
+    "name": "Andreas Dirr",
+    "birth_year": 1976,
+    "path": "data/people/p_andreas_dirr.json"
   },
   {
     "id": "p_andreas_dobberkau",
@@ -50991,6 +51098,7 @@
   {
     "id": "p_andreas_nilsson",
     "name": "Andreas Nilsson",
+    "birth_year": 1964,
     "path": "data/people/p_andreas_nilsson.json"
   },
   {
@@ -51003,6 +51111,11 @@
     "name": "Andreas Öhman",
     "birth_year": 1985,
     "path": "data/people/p_andreas_ohman.json"
+  },
+  {
+    "id": "p_andreas_ohrn",
+    "name": "Andreas Öhrn",
+    "path": "data/people/p_andreas_ohrn.json"
   },
   {
     "id": "p_andreas_pantzis",
@@ -52393,7 +52506,7 @@
   {
     "id": "p_andres_santana",
     "name": "Andrés Santana",
-    "birth_year": 1948,
+    "birth_year": 1968,
     "path": "data/people/p_andres_santana.json"
   },
   {
@@ -52635,6 +52748,12 @@
     "name": "Andrew Bicknell",
     "birth_year": 1956,
     "path": "data/people/p_andrew_bicknell.json"
+  },
+  {
+    "id": "p_andrew_bird",
+    "name": "Andrew Bird",
+    "birth_year": 1973,
+    "path": "data/people/p_andrew_bird.json"
   },
   {
     "id": "p_andrew_birkin",
@@ -53691,6 +53810,12 @@
     "name": "Andrew Louis",
     "birth_year": 1979,
     "path": "data/people/p_andrew_louis.json"
+  },
+  {
+    "id": "p_andrew_lovett",
+    "name": "Andrew Lovett",
+    "birth_year": 1982,
+    "path": "data/people/p_andrew_lovett.json"
   },
   {
     "id": "p_andrew_lowe",
@@ -55805,6 +55930,12 @@
     "path": "data/people/p_andrzej_krakowski.json"
   },
   {
+    "id": "p_andrzej_krauze",
+    "name": "Andrzej Krauze",
+    "birth_year": 1947,
+    "path": "data/people/p_andrzej_krauze.json"
+  },
+  {
     "id": "p_andrzej_krukowski",
     "name": "Andrzej Krukowski",
     "birth_year": 1961,
@@ -56643,7 +56774,7 @@
   {
     "id": "p_andy_on",
     "name": "Andy On",
-    "birth_year": 1977,
+    "birth_year": 1976,
     "path": "data/people/p_andy_on.json"
   },
   {
@@ -56849,7 +56980,6 @@
   {
     "id": "p_andy_thompson",
     "name": "Andy Thompson",
-    "birth_year": 1969,
     "path": "data/people/p_andy_thompson.json"
   },
   {
@@ -57702,7 +57832,7 @@
   {
     "id": "p_angel_parra",
     "name": "Ángel Parra",
-    "birth_year": 1966,
+    "birth_year": 1943,
     "path": "data/people/p_angel_parra.json"
   },
   {
@@ -66428,7 +66558,7 @@
   {
     "id": "p_anne_le_ny",
     "name": "Anne Le Ny",
-    "birth_year": 1969,
+    "birth_year": 1962,
     "path": "data/people/p_anne_le_ny.json"
   },
   {
@@ -66617,6 +66747,11 @@
     "name": "Anne Parillaud",
     "birth_year": 1960,
     "path": "data/people/p_anne_parillaud.json"
+  },
+  {
+    "id": "p_anne_paschetta",
+    "name": "Anne Paschetta",
+    "path": "data/people/p_anne_paschetta.json"
   },
   {
     "id": "p_anne_paulicevich",
@@ -67205,6 +67340,12 @@
     "name": "Annelies Appelhof",
     "birth_year": 1981,
     "path": "data/people/p_annelies_appelhof.json"
+  },
+  {
+    "id": "p_annelies_verbeke",
+    "name": "Annelies Verbeke",
+    "birth_year": 1976,
+    "path": "data/people/p_annelies_verbeke.json"
   },
   {
     "id": "p_anneliese_van_der_pol",
@@ -68590,6 +68731,12 @@
     "name": "Anni-Kristiina Juuso",
     "birth_year": 1979,
     "path": "data/people/p_annikristiina_juuso.json"
+  },
+  {
+    "id": "p_annina_enckell",
+    "name": "Annina Enckell",
+    "birth_year": 1957,
+    "path": "data/people/p_annina_enckell.json"
   },
   {
     "id": "p_annina_euling",
@@ -70985,6 +71132,11 @@
     "path": "data/people/p_antoine_monot_jr.json"
   },
   {
+    "id": "p_antoine_o_flatharta",
+    "name": "Antoine Ó Flatharta",
+    "path": "data/people/p_antoine_o_flatharta.json"
+  },
+  {
     "id": "p_antoine_olivier_pilon",
     "name": "Antoine Olivier Pilon",
     "birth_year": 1997,
@@ -71599,6 +71751,12 @@
     "name": "Anton Spieker",
     "birth_year": 1989,
     "path": "data/people/p_anton_spieker.json"
+  },
+  {
+    "id": "p_anton_steen",
+    "name": "Anton Steen",
+    "birth_year": 1992,
+    "path": "data/people/p_anton_steen.json"
   },
   {
     "id": "p_anton_sulik_ml",
@@ -72620,7 +72778,7 @@
   {
     "id": "p_antonio_campos",
     "name": "António Campos",
-    "birth_year": 1922,
+    "birth_year": 1983,
     "path": "data/people/p_antonio_campos.json"
   },
   {
@@ -74095,7 +74253,7 @@
   {
     "id": "p_anu_choudhury",
     "name": "Anu Choudhury",
-    "birth_year": 1978,
+    "birth_year": 1979,
     "path": "data/people/p_anu_choudhury.json"
   },
   {
@@ -74552,6 +74710,11 @@
     "path": "data/people/p_anurag_mehta.json"
   },
   {
+    "id": "p_anurag_saikia",
+    "name": "Anurag Saikia",
+    "path": "data/people/p_anurag_saikia.json"
+  },
+  {
     "id": "p_anurag_singh",
     "name": "Anurag Singh",
     "birth_year": 1976,
@@ -74689,7 +74852,7 @@
   {
     "id": "p_anwar_fuady",
     "name": "Anwar Fuady",
-    "birth_year": 1946,
+    "birth_year": 1947,
     "path": "data/people/p_anwar_fuady.json"
   },
   {
@@ -77385,7 +77548,7 @@
   {
     "id": "p_ariel_cohen",
     "name": "Ariel Cohen",
-    "birth_year": 1975,
+    "birth_year": 1940,
     "path": "data/people/p_ariel_cohen.json"
   },
   {
@@ -78096,7 +78259,7 @@
   {
     "id": "p_arjan_bajwa",
     "name": "Arjan Bajwa",
-    "birth_year": 1977,
+    "birth_year": 1979,
     "path": "data/people/p_arjan_bajwa.json"
   },
   {
@@ -78479,6 +78642,11 @@
     "name": "Arlene Dahl",
     "birth_year": 1925,
     "path": "data/people/p_arlene_dahl.json"
+  },
+  {
+    "id": "p_arlene_gibbs",
+    "name": "Arlene Gibbs",
+    "path": "data/people/p_arlene_gibbs.json"
   },
   {
     "id": "p_arlene_golonka",
@@ -79153,6 +79321,12 @@
     "name": "Armen Sargsyan",
     "birth_year": 1986,
     "path": "data/people/p_armen_sargsyan.json"
+  },
+  {
+    "id": "p_armen_vatyan",
+    "name": "Armen Vatyan",
+    "birth_year": 1950,
+    "path": "data/people/p_armen_vatyan.json"
   },
   {
     "id": "p_armen_weitzman",
@@ -80380,6 +80554,12 @@
     "path": "data/people/p_arputhan.json"
   },
   {
+    "id": "p_arrigo_barnabe",
+    "name": "Arrigo Barnabé",
+    "birth_year": 1951,
+    "path": "data/people/p_arrigo_barnabe.json"
+  },
+  {
     "id": "p_arrigo_vallebuona",
     "name": "Arrigo Vallebuona",
     "path": "data/people/p_arrigo_vallebuona.json"
@@ -81451,6 +81631,12 @@
     "path": "data/people/p_arthur_reinhart.json"
   },
   {
+    "id": "p_arthur_schnitzler",
+    "name": "Arthur Schnitzler",
+    "birth_year": 1862,
+    "path": "data/people/p_arthur_schnitzler.json"
+  },
+  {
     "id": "p_arthur_schuster",
     "name": "Arthur Schuster",
     "birth_year": 1851,
@@ -81567,6 +81753,12 @@
     "name": "Arto Paragamian",
     "birth_year": 1964,
     "path": "data/people/p_arto_paragamian.json"
+  },
+  {
+    "id": "p_arto_salminen",
+    "name": "Arto Salminen",
+    "birth_year": 1959,
+    "path": "data/people/p_arto_salminen.json"
   },
   {
     "id": "p_arto_sebastian",
@@ -84308,7 +84500,7 @@
   {
     "id": "p_ashok_amritraj",
     "name": "Ashok Amritraj",
-    "birth_year": 1956,
+    "birth_year": 1957,
     "path": "data/people/p_ashok_amritraj.json"
   },
   {
@@ -84496,6 +84688,12 @@
     "name": "Ashoke Viswanathan",
     "birth_year": 1958,
     "path": "data/people/p_ashoke_viswanathan.json"
+  },
+  {
+    "id": "p_ashot_abrahamyan",
+    "name": "Ashot Abrahamyan",
+    "birth_year": 1918,
+    "path": "data/people/p_ashot_abrahamyan.json"
   },
   {
     "id": "p_ashot_adamyan",
@@ -87667,6 +87865,12 @@
     "path": "data/people/p_august_schmolzer.json"
   },
   {
+    "id": "p_august_strindberg",
+    "name": "August Strindberg",
+    "birth_year": 1849,
+    "path": "data/people/p_august_strindberg.json"
+  },
+  {
     "id": "p_august_wilson",
     "name": "August Wilson",
     "birth_year": 1945,
@@ -89414,6 +89618,12 @@
     "name": "Avril Lavigne",
     "birth_year": 1984,
     "path": "data/people/p_avril_lavigne.json"
+  },
+  {
+    "id": "p_avshalom_caspi",
+    "name": "Avshalom Caspi",
+    "birth_year": 1960,
+    "path": "data/people/p_avshalom_caspi.json"
   },
   {
     "id": "p_avshalom_pollak",
@@ -91169,7 +91379,7 @@
   {
     "id": "p_ayub_khan",
     "name": "Ayub Khan",
-    "birth_year": 1969,
+    "birth_year": 1907,
     "path": "data/people/p_ayub_khan.json"
   },
   {
