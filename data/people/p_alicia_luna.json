@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alicia_luna",
+  "name": "Alicia Luna",
+  "external_ids": {
+    "wikidata": "Q60649486",
+    "imdb": "nm0526000"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1962
+}
