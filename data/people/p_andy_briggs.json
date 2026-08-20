@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_andy_briggs",
+  "name": "Andy Briggs",
+  "external_ids": {
+    "wikidata": "Q4760465",
+    "imdb": "nm1337887"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1972
+}
