@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_art_marcum",
+  "name": "Art Marcum",
+  "external_ids": {
+    "wikidata": "Q15069840",
+    "imdb": "nm1436466"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1949
+}
