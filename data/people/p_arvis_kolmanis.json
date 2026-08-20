@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_arvis_kolmanis",
+  "name": "Arvis Kolmanis",
+  "external_ids": {
+    "wikidata": "Q48804829",
+    "imdb": "nm4158538"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1958
+}

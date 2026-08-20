@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_alex_gopher",
+  "name": "Alex Gopher",
+  "external_ids": {
+    "wikidata": "Q362201"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1999
+}
