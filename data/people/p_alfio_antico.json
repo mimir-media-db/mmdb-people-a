@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alfio_antico",
+  "name": "Alfio Antico",
+  "external_ids": {
+    "wikidata": "Q1083728",
+    "imdb": "nm3485546"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1956
+}

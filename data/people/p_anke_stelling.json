@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_anke_stelling",
+  "name": "Anke Stelling",
+  "external_ids": {
+    "wikidata": "Q556875",
+    "imdb": "nm1986932"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1971
+}
