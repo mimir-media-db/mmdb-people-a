@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ann_donahue",
+  "name": "Ann Donahue",
+  "external_ids": {
+    "wikidata": "Q457431",
+    "imdb": "nm0231929"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1954
+}
