@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ann_biderman",
+  "name": "Ann Biderman",
+  "external_ids": {
+    "wikidata": "Q2380902",
+    "imdb": "nm0081189"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1951
+}

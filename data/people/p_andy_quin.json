@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_andy_quin",
+  "name": "Andy Quin",
+  "external_ids": {
+    "wikidata": "Q4761203",
+    "imdb": "nm1866213"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1960
+}
