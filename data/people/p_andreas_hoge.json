@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_andreas_hoge",
+  "name": "Andreas Hoge",
+  "external_ids": {
+    "wikidata": "Q21819106",
+    "imdb": "nm0389665"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1959
+}
