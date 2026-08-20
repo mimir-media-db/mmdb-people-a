@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_bell",
+  "name": "Alice Bell",
+  "external_ids": {
+    "wikidata": "Q22277013",
+    "imdb": "nm1912767"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1978
+}

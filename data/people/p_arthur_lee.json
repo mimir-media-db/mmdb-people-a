@@ -3,8 +3,10 @@
   "id": "p_arthur_lee",
   "name": "Arthur Lee",
   "external_ids": {
-    "wikidata": "Q66026948",
-    "imdb": "nm6110544"
+    "wikidata": "Q543545",
+    "imdb": "nm1411958"
   },
-  "last_updated": "2026-08-19"
+  "last_updated": "2026-08-20",
+  "birth_year": 1945,
+  "death_year": 2006
 }
