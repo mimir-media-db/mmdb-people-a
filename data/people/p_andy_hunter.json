@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_andy_hunter",
+  "name": "Andy Hunter",
+  "external_ids": {
+    "wikidata": "Q1854083",
+    "imdb": "nm1627651"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1973
+}
