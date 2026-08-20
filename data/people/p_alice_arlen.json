@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_arlen",
+  "name": "Alice Arlen",
+  "external_ids": {
+    "wikidata": "Q1739412",
+    "imdb": "nm0035146"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1940,
+  "death_year": 2016
+}
