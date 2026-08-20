@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_antony_john_smith",
+  "name": "Antony John Smith",
+  "external_ids": {
+    "wikidata": "Q19325121"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1934,
+  "death_year": 2009
+}
