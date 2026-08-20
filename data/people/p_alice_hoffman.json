@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_hoffman",
+  "name": "Alice Hoffman",
+  "external_ids": {
+    "wikidata": "Q452722",
+    "imdb": "nm0388805"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1952
+}

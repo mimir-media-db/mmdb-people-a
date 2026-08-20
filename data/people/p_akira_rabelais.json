@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_akira_rabelais",
+  "name": "Akira Rabelais",
+  "external_ids": {
+    "wikidata": "Q418877",
+    "imdb": "nm1944772"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1966
+}

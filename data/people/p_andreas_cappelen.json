@@ -3,8 +3,10 @@
   "id": "p_andreas_cappelen",
   "name": "Andreas Cappelen",
   "external_ids": {
-    "wikidata": "Q22093709",
-    "imdb": "nm1548431"
+    "wikidata": "Q501324",
+    "imdb": "nm10206552"
   },
-  "last_updated": "2026-08-19"
+  "last_updated": "2026-08-20",
+  "birth_year": 1915,
+  "death_year": 2008
 }

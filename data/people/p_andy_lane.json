@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_andy_lane",
+  "name": "Andy Lane",
+  "external_ids": {
+    "wikidata": "Q3616551",
+    "imdb": "nm1373547"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1963
+}
