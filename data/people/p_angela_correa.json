@@ -1,11 +1,10 @@
 {
   "schema_version": 1,
   "id": "p_angela_correa",
-  "name": "Ângela Correa",
+  "name": "Angela Correa",
   "external_ids": {
-    "wikidata": "Q10396111",
-    "imdb": "nm0180814"
+    "wikidata": "Q4762416",
+    "imdb": "nm3452362"
   },
-  "last_updated": "2026-08-20",
-  "birth_year": 1954
+  "last_updated": "2026-08-20"
 }
