@@ -3,8 +3,9 @@
   "id": "p_alan_elliott",
   "name": "Alan Elliott",
   "external_ids": {
-    "wikidata": "Q73861617",
-    "imdb": "nm1410756"
+    "wikidata": "Q21151475"
   },
-  "last_updated": "2026-08-19"
+  "last_updated": "2026-08-20",
+  "birth_year": 1925,
+  "death_year": 2006
 }

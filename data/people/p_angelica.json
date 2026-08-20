@@ -1,10 +1,11 @@
 {
   "schema_version": 1,
   "id": "p_angelica",
-  "name": "Angelica",
+  "name": "Angélica",
   "external_ids": {
-    "wikidata": "Q141072557",
-    "imdb": "nm1777211"
+    "wikidata": "Q2883785",
+    "imdb": "nm0030002"
   },
-  "last_updated": "2026-08-20"
+  "last_updated": "2026-08-20",
+  "birth_year": 1973
 }

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alex_north",
+  "name": "Alex North",
+  "external_ids": {
+    "wikidata": "Q349448",
+    "imdb": "nm0006218"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1910,
+  "death_year": 1991
+}
