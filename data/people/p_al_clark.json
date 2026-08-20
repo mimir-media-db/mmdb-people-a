@@ -3,8 +3,10 @@
   "id": "p_al_clark",
   "name": "Al Clark",
   "external_ids": {
-    "wikidata": "Q19661412",
-    "imdb": "nm0163618"
+    "wikidata": "Q2636034",
+    "imdb": "nm0163617"
   },
-  "last_updated": "2026-08-20"
+  "last_updated": "2026-08-20",
+  "birth_year": 1902,
+  "death_year": 1971
 }

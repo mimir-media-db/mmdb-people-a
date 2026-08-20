@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_andy_gray",
+  "name": "Andy Gray",
+  "external_ids": {
+    "wikidata": "Q4760736",
+    "imdb": "nm0336446"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1969
+}

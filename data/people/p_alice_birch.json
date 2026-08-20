@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_birch",
+  "name": "Alice Birch",
+  "external_ids": {
+    "wikidata": "Q56321961",
+    "imdb": "nm2690539"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1985
+}
