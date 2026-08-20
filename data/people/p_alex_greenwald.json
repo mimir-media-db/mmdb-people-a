@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alex_greenwald",
+  "name": "Alex Greenwald",
+  "external_ids": {
+    "wikidata": "Q4717099",
+    "imdb": "nm0339233"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1979
+}
