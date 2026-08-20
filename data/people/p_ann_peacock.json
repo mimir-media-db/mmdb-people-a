@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ann_peacock",
+  "name": "Ann Peacock",
+  "external_ids": {
+    "wikidata": "Q12912984",
+    "imdb": "nm0668754"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1944
+}

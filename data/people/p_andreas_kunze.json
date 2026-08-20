@@ -3,8 +3,10 @@
   "id": "p_andreas_kunze",
   "name": "Andreas Kunze",
   "external_ids": {
-    "wikidata": "Q39372428",
-    "imdb": "nm2695865"
+    "wikidata": "Q91758",
+    "imdb": "nm0475344"
   },
-  "last_updated": "2026-08-20"
+  "last_updated": "2026-08-20",
+  "birth_year": 1952,
+  "death_year": 2010
 }
