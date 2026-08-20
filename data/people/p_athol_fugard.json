@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_athol_fugard",
+  "name": "Athol Fugard",
+  "external_ids": {
+    "wikidata": "Q601307",
+    "imdb": "nm0297538"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1932,
+  "death_year": 2025
+}
