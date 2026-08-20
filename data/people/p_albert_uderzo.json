@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_albert_uderzo",
+  "name": "Albert Uderzo",
+  "external_ids": {
+    "wikidata": "Q206685",
+    "imdb": "nm0879853"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1927,
+  "death_year": 2020
+}
