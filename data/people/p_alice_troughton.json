@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_troughton",
+  "name": "Alice Troughton",
+  "external_ids": {
+    "wikidata": "Q4726130",
+    "imdb": "nm1488618"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1900
+}
