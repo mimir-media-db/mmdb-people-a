@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_akira_toriyama",
+  "name": "Akira Toriyama",
+  "external_ids": {
+    "wikidata": "Q208582",
+    "imdb": "nm0868066"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1955,
+  "death_year": 2024
+}
