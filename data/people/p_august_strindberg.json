@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_august_strindberg",
+  "name": "August Strindberg",
+  "external_ids": {
+    "wikidata": "Q7724",
+    "imdb": "nm0834529"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1849,
+  "death_year": 1912
+}
