@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alice_munro",
+  "name": "Alice Munro",
+  "external_ids": {
+    "wikidata": "Q234819",
+    "imdb": "nm0613084"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1931,
+  "death_year": 2024
+}

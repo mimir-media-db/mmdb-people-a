@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_abi_morgan",
+  "name": "Abi Morgan",
+  "external_ids": {
+    "wikidata": "Q4667523",
+    "imdb": "nm0604448"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1967
+}
