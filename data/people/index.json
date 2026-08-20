@@ -2184,6 +2184,12 @@
     "path": "data/people/p_abby_martin.json"
   },
   {
+    "id": "p_abby_mcdonald",
+    "name": "Abby McDonald",
+    "birth_year": 1985,
+    "path": "data/people/p_abby_mcdonald.json"
+  },
+  {
     "id": "p_abby_mukiibi_nkaaga",
     "name": "Abby Mukiibi Nkaaga",
     "path": "data/people/p_abby_mukiibi_nkaaga.json"
@@ -4398,7 +4404,7 @@
   {
     "id": "p_action_bronson",
     "name": "Action Bronson",
-    "birth_year": 1982,
+    "birth_year": 1983,
     "path": "data/people/p_action_bronson.json"
   },
   {
@@ -4669,7 +4675,7 @@
   {
     "id": "p_adam_baldwin",
     "name": "Adam Baldwin",
-    "birth_year": 1962,
+    "birth_year": 1986,
     "path": "data/people/p_adam_baldwin.json"
   },
   {
@@ -9588,6 +9594,11 @@
     "name": "Adrian Pintea",
     "birth_year": 1954,
     "path": "data/people/p_adrian_pintea.json"
+  },
+  {
+    "id": "p_adrian_popovich",
+    "name": "Adrian Popovich",
+    "path": "data/people/p_adrian_popovich.json"
   },
   {
     "id": "p_adrian_popovici",
@@ -15382,6 +15393,11 @@
     "path": "data/people/p_aitor_echeverria.json"
   },
   {
+    "id": "p_aitor_etxebarria",
+    "name": "Aitor Etxebarria",
+    "path": "data/people/p_aitor_etxebarria.json"
+  },
+  {
     "id": "p_aitor_gabilondo",
     "name": "Aitor Gabilondo",
     "birth_year": 1973,
@@ -16614,6 +16630,12 @@
     "name": "Akiko Hasegawa",
     "birth_year": 1985,
     "path": "data/people/p_akiko_hasegawa.json"
+  },
+  {
+    "id": "p_akiko_higashimura",
+    "name": "Akiko Higashimura",
+    "birth_year": 1975,
+    "path": "data/people/p_akiko_higashimura.json"
   },
   {
     "id": "p_akiko_hinagata",
@@ -19122,6 +19144,11 @@
     "path": "data/people/p_alan_francis.json"
   },
   {
+    "id": "p_alan_freedland",
+    "name": "Alan Freedland",
+    "path": "data/people/p_alan_freedland.json"
+  },
+  {
     "id": "p_alan_fudge",
     "name": "Alan Fudge",
     "birth_year": 1944,
@@ -19203,6 +19230,12 @@
     "name": "Alan Hruska",
     "birth_year": 1933,
     "path": "data/people/p_alan_hruska.json"
+  },
+  {
+    "id": "p_alan_hrzica",
+    "name": "Alan Hržica",
+    "birth_year": 1978,
+    "path": "data/people/p_alan_hrzica.json"
   },
   {
     "id": "p_alan_humphrey",
@@ -19436,6 +19469,11 @@
     "name": "Alan Purwin",
     "birth_year": 1961,
     "path": "data/people/p_alan_purwin.json"
+  },
+  {
+    "id": "p_alan_r_cohen",
+    "name": "Alan R. Cohen",
+    "path": "data/people/p_alan_r_cohen.json"
   },
   {
     "id": "p_alan_r_milligan",
@@ -19774,6 +19812,12 @@
     "name": "Alana Haim",
     "birth_year": 1991,
     "path": "data/people/p_alana_haim.json"
+  },
+  {
+    "id": "p_alana_s_portero",
+    "name": "Alana S. Portero",
+    "birth_year": 1977,
+    "path": "data/people/p_alana_s_portero.json"
   },
   {
     "id": "p_alana_simoes",
@@ -23660,7 +23704,7 @@
   {
     "id": "p_aleksandr_domogarov",
     "name": "Aleksandr Domogarov",
-    "birth_year": 1963,
+    "birth_year": 1989,
     "path": "data/people/p_aleksandr_domogarov.json"
   },
   {
@@ -26622,6 +26666,12 @@
     "path": "data/people/p_alessio_vassallo.json"
   },
   {
+    "id": "p_alessio_vlad",
+    "name": "Alessio Vlad",
+    "birth_year": 1954,
+    "path": "data/people/p_alessio_vlad.json"
+  },
+  {
     "id": "p_alesso",
     "name": "Alesso",
     "birth_year": 1991,
@@ -28297,6 +28347,7 @@
   {
     "id": "p_alex_prager",
     "name": "Alex Prager",
+    "birth_year": 1979,
     "path": "data/people/p_alex_prager.json"
   },
   {
@@ -30041,6 +30092,12 @@
     "path": "data/people/p_alexander_m_rumelin.json"
   },
   {
+    "id": "p_alexander_macsween",
+    "name": "Alexander MacSween",
+    "birth_year": 1963,
+    "path": "data/people/p_alexander_macsween.json"
+  },
+  {
     "id": "p_alexander_magnusson",
     "name": "Alexander Magnússon",
     "birth_year": 2004,
@@ -30343,7 +30400,6 @@
   {
     "id": "p_alexander_rodnyansky",
     "name": "Alexander Rodnyansky",
-    "birth_year": 1961,
     "path": "data/people/p_alexander_rodnyansky.json"
   },
   {
@@ -31161,7 +31217,7 @@
   {
     "id": "p_alexandra_jensen",
     "name": "Alexandra Jensen",
-    "birth_year": 1993,
+    "birth_year": 1999,
     "path": "data/people/p_alexandra_jensen.json"
   },
   {
@@ -32203,6 +32259,11 @@
     "name": "Alexandre Singh",
     "birth_year": 1979,
     "path": "data/people/p_alexandre_singh.json"
+  },
+  {
+    "id": "p_alexandre_smia",
+    "name": "Alexandre Smia",
+    "path": "data/people/p_alexandre_smia.json"
   },
   {
     "id": "p_alexandre_steiger",
@@ -34025,6 +34086,11 @@
     "name": "Alfred Strejček",
     "birth_year": 1941,
     "path": "data/people/p_alfred_strejcek.json"
+  },
+  {
+    "id": "p_alfred_tapscott",
+    "name": "Alfred Tapscott",
+    "path": "data/people/p_alfred_tapscott.json"
   },
   {
     "id": "p_alfred_uhry",
@@ -37814,7 +37880,7 @@
   {
     "id": "p_alix_benezech",
     "name": "Alix Bénézech",
-    "birth_year": 1989,
+    "birth_year": 1991,
     "path": "data/people/p_alix_benezech.json"
   },
   {
@@ -38849,6 +38915,12 @@
     "name": "Allison McAtee",
     "birth_year": 1980,
     "path": "data/people/p_allison_mcatee.json"
+  },
+  {
+    "id": "p_allison_mcgourty",
+    "name": "Allison McGourty",
+    "birth_year": 1964,
+    "path": "data/people/p_allison_mcgourty.json"
   },
   {
     "id": "p_allison_mckenzie",
@@ -41450,7 +41522,7 @@
   {
     "id": "p_amanda_kramer",
     "name": "Amanda Kramer",
-    "birth_year": 1900,
+    "birth_year": 1980,
     "path": "data/people/p_amanda_kramer.json"
   },
   {
@@ -43608,6 +43680,12 @@
     "name": "Amir Banoo Karimi",
     "birth_year": 1931,
     "path": "data/people/p_amir_banoo_karimi.json"
+  },
+  {
+    "id": "p_amir_baradaran",
+    "name": "Amir Baradaran",
+    "birth_year": 1980,
+    "path": "data/people/p_amir_baradaran.json"
   },
   {
     "id": "p_amir_barghashi",
@@ -45803,9 +45881,15 @@
     "path": "data/people/p_ana_alvarez.json"
   },
   {
+    "id": "p_ana_arsuaga",
+    "name": "Ana Arsuaga",
+    "birth_year": 1993,
+    "path": "data/people/p_ana_arsuaga.json"
+  },
+  {
     "id": "p_ana_asensio",
     "name": "Ana Asensio",
-    "birth_year": 1978,
+    "birth_year": 1980,
     "path": "data/people/p_ana_asensio.json"
   },
   {
@@ -45823,6 +45907,11 @@
     "id": "p_ana_barcenas_torres",
     "name": "Ana Bárcenas Torres",
     "path": "data/people/p_ana_barcenas_torres.json"
+  },
+  {
+    "id": "p_ana_barcos_artacho",
+    "name": "Ana Barcos Artacho",
+    "path": "data/people/p_ana_barcos_artacho.json"
   },
   {
     "id": "p_ana_begic",
@@ -51927,6 +52016,12 @@
     "path": "data/people/p_andrea_pallaoro.json"
   },
   {
+    "id": "p_andrea_paolo_massara",
+    "name": "Andrea Paolo Massara",
+    "birth_year": 1985,
+    "path": "data/people/p_andrea_paolo_massara.json"
+  },
+  {
     "id": "p_andrea_papini",
     "name": "Andrea Papini",
     "path": "data/people/p_andrea_papini.json"
@@ -52529,6 +52624,12 @@
     "name": "Andrea Wenzl",
     "birth_year": 1978,
     "path": "data/people/p_andrea_wenzl.json"
+  },
+  {
+    "id": "p_andrea_werhun",
+    "name": "Andrea Werhun",
+    "birth_year": 1988,
+    "path": "data/people/p_andrea_werhun.json"
   },
   {
     "id": "p_andrea_willson",
@@ -56788,6 +56889,11 @@
     "id": "p_andrew_smith",
     "name": "Andrew Smith",
     "path": "data/people/p_andrew_smith.json"
+  },
+  {
+    "id": "p_andrew_sodroski",
+    "name": "Andrew Sodroski",
+    "path": "data/people/p_andrew_sodroski.json"
   },
   {
     "id": "p_andrew_solt",
@@ -64319,6 +64425,12 @@
     "path": "data/people/p_ankyu_lee.json"
   },
   {
+    "id": "p_anl_kzlbuga",
+    "name": "Anıl Kızılbuğa",
+    "birth_year": 1987,
+    "path": "data/people/p_anl_kzlbuga.json"
+  },
+  {
     "id": "p_anmol_kc",
     "name": "Anmol K.C.",
     "birth_year": 1994,
@@ -64713,7 +64825,7 @@
   {
     "id": "p_anna_acton",
     "name": "Anna Acton",
-    "birth_year": 1977,
+    "birth_year": 1978,
     "path": "data/people/p_anna_acton.json"
   },
   {
@@ -65648,6 +65760,11 @@
     "name": "Anna Fixová",
     "birth_year": 1984,
     "path": "data/people/p_anna_fixova.json"
+  },
+  {
+    "id": "p_anna_flavia_dias_salles",
+    "name": "Anna Flávia Dias Salles",
+    "path": "data/people/p_anna_flavia_dias_salles.json"
   },
   {
     "id": "p_anna_flemming",
@@ -69421,7 +69538,7 @@
   {
     "id": "p_anne_le_ny",
     "name": "Anne Le Ny",
-    "birth_year": 1962,
+    "birth_year": 1969,
     "path": "data/people/p_anne_le_ny.json"
   },
   {
@@ -74904,6 +75021,12 @@
     "path": "data/people/p_anton_yuryev.json"
   },
   {
+    "id": "p_anton_zaytsev",
+    "name": "Anton Zaytsev",
+    "birth_year": 1969,
+    "path": "data/people/p_anton_zaytsev.json"
+  },
+  {
     "id": "p_anton_zenkovich",
     "name": "Anton Zenkovich",
     "birth_year": 1984,
@@ -80244,6 +80367,11 @@
     "name": "Aria Noir",
     "birth_year": 1975,
     "path": "data/people/p_aria_noir.json"
+  },
+  {
+    "id": "p_aria_prayogi",
+    "name": "Aria Prayogi",
+    "path": "data/people/p_aria_prayogi.json"
   },
   {
     "id": "p_aria_wallace",
@@ -87336,6 +87464,12 @@
     "path": "data/people/p_ashant_sharma.json"
   },
   {
+    "id": "p_ashar_medina",
+    "name": "Ashar Medina",
+    "birth_year": 1984,
+    "path": "data/people/p_ashar_medina.json"
+  },
+  {
     "id": "p_asher_angel",
     "name": "Asher Angel",
     "birth_year": 2002,
@@ -92395,7 +92529,7 @@
   {
     "id": "p_aus_greidanus",
     "name": "Aus Greidanus",
-    "birth_year": 1975,
+    "birth_year": 1950,
     "path": "data/people/p_aus_greidanus.json"
   },
   {
@@ -92694,6 +92828,11 @@
     "id": "p_auur_drauma_bachmann",
     "name": "Auður Drauma Bachmann",
     "path": "data/people/p_auur_drauma_bachmann.json"
+  },
+  {
+    "id": "p_av_prafullachandra",
+    "name": "AV Prafullachandra",
+    "path": "data/people/p_av_prafullachandra.json"
   },
   {
     "id": "p_av_rockwell",
@@ -93384,6 +93523,11 @@
     "name": "Avner Dorman",
     "birth_year": 1975,
     "path": "data/people/p_avner_dorman.json"
+  },
+  {
+    "id": "p_avner_shiloah",
+    "name": "Avner Shiloah",
+    "path": "data/people/p_avner_shiloah.json"
   },
   {
     "id": "p_avni_ozgurel",
@@ -95781,6 +95925,12 @@
     "id": "p_aziz_jindani",
     "name": "Aziz Jindani",
     "path": "data/people/p_aziz_jindani.json"
+  },
+  {
+    "id": "p_aziz_kedi",
+    "name": "Aziz Kedi",
+    "birth_year": 1978,
+    "path": "data/people/p_aziz_kedi.json"
   },
   {
     "id": "p_aziz_khan",
