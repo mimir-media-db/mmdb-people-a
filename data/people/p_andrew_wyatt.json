@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_andrew_wyatt",
+  "name": "Andrew Wyatt",
+  "external_ids": {
+    "wikidata": "Q4758985",
+    "imdb": "nm1961278"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1971
+}
