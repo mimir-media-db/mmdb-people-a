@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alex_simu",
+  "name": "Alex Simu",
+  "external_ids": {
+    "wikidata": "Q53113064",
+    "imdb": "nm6226948"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1980
+}

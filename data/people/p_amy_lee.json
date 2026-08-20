@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_amy_lee",
+  "name": "Amy Lee",
+  "external_ids": {
+    "wikidata": "Q172632",
+    "imdb": "nm1341624"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1981
+}

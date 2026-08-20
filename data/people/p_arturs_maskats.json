@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_arturs_maskats",
+  "name": "Artūrs Maskats",
+  "external_ids": {
+    "wikidata": "Q15430519",
+    "imdb": "nm1213478"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1957
+}

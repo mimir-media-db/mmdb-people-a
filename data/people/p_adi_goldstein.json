@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_adi_goldstein",
+  "name": "Adi Goldstein",
+  "external_ids": {
+    "wikidata": "Q12410209",
+    "imdb": "nm4349499"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1977
+}
