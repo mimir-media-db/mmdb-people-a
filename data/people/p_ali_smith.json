@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ali_smith",
+  "name": "Ali Smith",
+  "external_ids": {
+    "wikidata": "Q468523",
+    "imdb": "nm4497203"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1962
+}
