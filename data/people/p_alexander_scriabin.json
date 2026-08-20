@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alexander_scriabin",
+  "name": "Alexander Scriabin",
+  "external_ids": {
+    "wikidata": "Q185647",
+    "imdb": "nm0780099"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1872,
+  "death_year": 1915
+}
