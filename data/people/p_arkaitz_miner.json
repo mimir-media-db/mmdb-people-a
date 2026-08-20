@@ -1,10 +1,9 @@
 {
   "schema_version": 1,
-  "id": "p_arne_toonen",
-  "name": "Arne Toonen",
+  "id": "p_arkaitz_miner",
+  "name": "Arkaitz Miner",
   "external_ids": {
-    "wikidata": "Q2066995",
-    "imdb": "nm1234631"
+    "wikidata": "Q28464705"
   },
   "last_updated": "2026-08-20",
   "birth_year": 1975
