@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alva_noto",
+  "name": "Alva Noto",
+  "external_ids": {
+    "wikidata": "Q683009",
+    "imdb": "nm3067426"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1965
+}
