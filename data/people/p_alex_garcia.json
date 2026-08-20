@@ -1,10 +1,11 @@
 {
   "schema_version": 1,
   "id": "p_alex_garcia",
-  "name": "Alex García",
+  "name": "Álex García",
   "external_ids": {
-    "wikidata": "Q39089795"
+    "wikidata": "Q2889975",
+    "imdb": "nm1073929"
   },
-  "last_updated": "2026-08-19",
-  "birth_year": 1966
+  "last_updated": "2026-08-20",
+  "birth_year": 1981
 }
