@@ -1,9 +1,10 @@
 {
   "schema_version": 1,
-  "id": "p_andrei_deviatkin",
-  "name": "Andrei Deviatkin",
+  "id": "p_alex_komlew",
+  "name": "Alex Komlew",
   "external_ids": {
-    "wikidata": "Q1875795"
+    "wikidata": "Q110619180",
+    "imdb": "nm3278396"
   },
   "last_updated": "2026-08-20",
   "birth_year": 1980

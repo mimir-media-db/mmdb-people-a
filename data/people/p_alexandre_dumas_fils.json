@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alexandre_dumas_fils",
+  "name": "Alexandre Dumas fils",
+  "external_ids": {
+    "wikidata": "Q169150",
+    "imdb": "nm0241414"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1824,
+  "death_year": 1895
+}
