@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ann_nocenti",
+  "name": "Ann Nocenti",
+  "external_ids": {
+    "wikidata": "Q2850412",
+    "imdb": "nm4563800"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1957
+}
