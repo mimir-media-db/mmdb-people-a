@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ali_baba_khan",
+  "name": "Ali Baba Khan",
+  "external_ids": {
+    "wikidata": "Q56651224",
+    "imdb": "nm10163740"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1993
+}
