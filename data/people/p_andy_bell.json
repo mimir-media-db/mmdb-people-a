@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_andy_bell",
+  "name": "Andy Bell",
+  "external_ids": {
+    "wikidata": "Q353388",
+    "imdb": "nm1262786"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1970
+}
