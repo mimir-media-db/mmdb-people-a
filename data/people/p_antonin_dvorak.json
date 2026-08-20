@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_antonin_dvorak",
+  "name": "Antonín Dvořák",
+  "external_ids": {
+    "wikidata": "Q7298",
+    "imdb": "nm0006053"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1841,
+  "death_year": 1904
+}
