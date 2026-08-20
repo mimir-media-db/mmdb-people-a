@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_anne_rapp",
+  "name": "Anne Rapp",
+  "external_ids": {
+    "wikidata": "Q4768736",
+    "imdb": "nm0710828"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1950
+}
