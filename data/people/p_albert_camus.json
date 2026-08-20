@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_albert_camus",
+  "name": "Albert Camus",
+  "external_ids": {
+    "wikidata": "Q34670",
+    "imdb": "nm0133411"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1913,
+  "death_year": 1960
+}
