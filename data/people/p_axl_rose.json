@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_axl_rose",
+  "name": "Axl Rose",
+  "external_ids": {
+    "wikidata": "Q11885",
+    "imdb": "nm0741730"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1962
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alonso_cueto",
+  "name": "Alonso Cueto",
+  "external_ids": {
+    "wikidata": "Q723761",
+    "imdb": "nm2156485"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1954
+}

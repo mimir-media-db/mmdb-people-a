@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_alex_ebert",
+  "name": "Alex Ebert",
+  "external_ids": {
+    "wikidata": "Q2832939",
+    "imdb": "nm2745006"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1978
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_alvin_sargent",
+  "name": "Alvin Sargent",
+  "external_ids": {
+    "wikidata": "Q449238",
+    "imdb": "nm0765091"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1927,
+  "death_year": 2019
+}
