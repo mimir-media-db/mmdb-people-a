@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_amy_sorlie",
+  "name": "Amy Sorlie",
+  "external_ids": {
+    "wikidata": "Q62066235",
+    "imdb": "nm3602980"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1978
+}
