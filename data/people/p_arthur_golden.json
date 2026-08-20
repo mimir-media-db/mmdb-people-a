@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_arthur_golden",
+  "name": "Arthur Golden",
+  "external_ids": {
+    "wikidata": "Q432728",
+    "imdb": "nm1006264"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1956
+}
