@@ -37914,7 +37914,7 @@
   {
     "id": "p_alix_benezech",
     "name": "Alix Bénézech",
-    "birth_year": 1991,
+    "birth_year": 1989,
     "path": "data/people/p_alix_benezech.json"
   },
   {
@@ -44461,6 +44461,12 @@
     "path": "data/people/p_ammar_aziz.json"
   },
   {
+    "id": "p_ammar_bozoglu",
+    "name": "Ammar Bozoglu",
+    "birth_year": 1997,
+    "path": "data/people/p_ammar_bozoglu.json"
+  },
+  {
     "id": "p_ammar_tafti",
     "name": "Ammar Tafti",
     "birth_year": 1981,
@@ -46909,7 +46915,7 @@
   {
     "id": "p_ana_urushadze",
     "name": "Ana Urushadze",
-    "birth_year": 1990,
+    "birth_year": 1989,
     "path": "data/people/p_ana_urushadze.json"
   },
   {
@@ -64905,7 +64911,7 @@
   {
     "id": "p_anna_acton",
     "name": "Anna Acton",
-    "birth_year": 1978,
+    "birth_year": 1977,
     "path": "data/people/p_anna_acton.json"
   },
   {
@@ -82721,6 +82727,12 @@
     "name": "Armando Jordy",
     "birth_year": 1997,
     "path": "data/people/p_armando_jordy.json"
+  },
+  {
+    "id": "p_armando_machuca",
+    "name": "Armando Machuca",
+    "birth_year": 1976,
+    "path": "data/people/p_armando_machuca.json"
   },
   {
     "id": "p_armando_miguel_gomez",
