@@ -29009,6 +29009,11 @@
     "path": "data/people/p_alexa_bakonyi.json"
   },
   {
+    "id": "p_alexa_centurion",
+    "name": "Alexa Centurión",
+    "path": "data/people/p_alexa_centurion.json"
+  },
+  {
     "id": "p_alexa_chung",
     "name": "Alexa Chung",
     "birth_year": 1983,
@@ -37914,7 +37919,7 @@
   {
     "id": "p_alix_benezech",
     "name": "Alix Bénézech",
-    "birth_year": 1989,
+    "birth_year": 1991,
     "path": "data/people/p_alix_benezech.json"
   },
   {
@@ -46915,7 +46920,7 @@
   {
     "id": "p_ana_urushadze",
     "name": "Ana Urushadze",
-    "birth_year": 1989,
+    "birth_year": 1990,
     "path": "data/people/p_ana_urushadze.json"
   },
   {
@@ -64911,7 +64916,7 @@
   {
     "id": "p_anna_acton",
     "name": "Anna Acton",
-    "birth_year": 1977,
+    "birth_year": 1978,
     "path": "data/people/p_anna_acton.json"
   },
   {
